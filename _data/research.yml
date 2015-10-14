@@ -1,18 +1,19 @@
 - name: Hydroclimatic uncertainty
-  description: "There is a high degree of uncertainty in future hydroclimatic changes due to the range of scales 
-  required to simulate precipitation in models and the uncertainty inherent in a complex climate. My work aims to understand the sources 
+  description: "There is a high degree of uncertainty in future hydroclimatic changes due to the range of scales
+  required to simulate precipitation in models and the uncertainty inherent in a complex climate. My work aims to understand the sources
   of this uncertainty (both modeled and real-world) using paleorecords, instrumental observations, and models to improve prediction
   of the range of hydroclimatic outcomes this coming century."
   imgSrc: "img/research/nh-snow-b.jpg"
 - name: Human impacts of climate change
   description: " Translating the range of outcomes in physical climate impacts is insufficient to understand what such impacts imply for people
-  and the systems they value. The aim of this work is to incorporate other sciences, both social and natural, to translate physical
+  and the systems they value. For example, snow is projected to melt in a warmer world, but the human impacts of less snow depends on where and how
+  people use snow to supply water for human consumption. The aim of this work is to incorporate other sciences, both social and natural, to translate physical
   climate impacts into impacts on humans."
   imgSrc: "img/research/snajoaquin4.jpg"
 - name: Adaptation decision-making
-  description: "We know that model-simulated internal variability induced by the atmosphere is sufficient to mask, amplify, 
-  or reverse the direction of anthropogenically-forced trends in temperature, circulation, and precipitation 
-  at large spatial and temporal scales, complicating adaptation decisions. Characterizing the most likely climate outcome is not sufficient for planning. 
+  description: "We know that model-simulated internal variability induced by the atmosphere is sufficient to mask, amplify,
+  or reverse the direction of anthropogenically-forced trends in temperature, circulation, and precipitation
+  at large spatial and temporal scales, complicating adaptation decisions. Characterizing the most likely climate outcome is not sufficient for planning.
   Rather, quantifying the full extent of outcomes from internal variability under global warming is key to
   enable adaptation in the face of uncertain climate change threats. Robust decision-making under
   uncertainty requires the identification of adaptations that produce benefits under the broadest range
