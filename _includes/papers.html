@@ -20,8 +20,14 @@
                     		{{ paper.title }}
                     		<i>{{ paper.status }}</i>
                     		|
-                    		<a class="text-muted" href={{ paper.link }} target='_blank'>PDF</a>
-                        <br><br>
+                        {% if paper.link %}
+                          <a class="text-muted" href={{ paper.link }} target='_blank'>PDF</a>
+                            <br><br>
+                    			</a>
+                    		{% else %}
+                          <a href="mailto:jsmankin@ldeo.columbia.edu?subject=Website%20Contact" target='_blank'>Email to request copy</a>
+                          <br><br>
+                    		{% endif %}
                     	</li>
                     {% endfor %}
                     </ol>
@@ -51,8 +57,14 @@
                     		,
                     		{{ paper.DOI }}
                     		|
-                    		<a class="text-muted" href={{ paper.link }} target='_blank'>PDF</a>
-                        <br><br>
+                        {% if paper.link %}
+                          <a class="text-muted" href={{ paper.link }} target='_blank'>PDF</a>
+                            <br><br>
+                    			</a>
+                    		{% else %}
+                          <a href="mailto:jsmankin@ldeo.columbia.edu?subject=Website%20Contact" target='_blank'>Email to request copy</a>
+                          <br><br>
+                    		{% endif %}
                     	</li>
                     {% endfor %}
                     </ol>
