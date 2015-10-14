@@ -1,2 +1,8 @@
-- name: Sample name
+- authors: Singh,D
+  title: The present and future potential for snow to supply human water demand, 
+  journal: Environmental Research Letters
+  journalLink: http://iopscience.iop.org/1748-9326
+  volume: 
+  issue:
+  page:
   link: '/papers/sample.pdf'

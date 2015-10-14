@@ -1,6 +1,9 @@
 - name: Hydroclimate
   description: "Words and project info"
+  imgSrc: "img/research/nh-snow-b.jpg"
 - name: Human impacts of climate change
   description: "Words and project info"
+  imgSrc: "img/research/snajoaquin4.jpg"
 - name: Adaptation decision-making
   description: "Words and project info"
+  imgSrc: "img/research/robust_adaptationE.jpg"

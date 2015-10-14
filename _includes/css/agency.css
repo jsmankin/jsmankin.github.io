@@ -58,7 +58,7 @@ h6 {
 }
 
 .research-img {
-  max-width: 80%;
+  max-width: 50%;
 }
 
 .img-centered {
@@ -180,7 +180,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: 'Roboto Slab',"Helvetica Neue",Helvetica,Arial,cursive;
+    font-weight: bold;
     color: #{{ site.color.primary }};
 }
 
@@ -581,7 +582,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url(../img/profile-pic.jpg);
+/*     background-image: url(../img/profile-pic.jpg); */
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
