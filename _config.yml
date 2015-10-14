@@ -1,0 +1,30 @@
+url: https://y7kim.github.io
+baseurl:
+
+# Site settings
+title: Justin Staller Mankin
+email: jsmankin@ldeo.columbia.edu
+description: "Earth Institute Postdoctoral Fellow, Lamont-Doherty Earth Observatory and Center for Climate Systems Research at NASA Goddard Institute for Space Studies. I am an interdisciplinary climate scientist."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 0099FF
+  secondary: 00CCFF
+  secondary-dark: 333
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# social:
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: bitbucket
+#     url: http://bitbucket.org/jekyll
+#   - title: github
+#     url: http://github.com/jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
