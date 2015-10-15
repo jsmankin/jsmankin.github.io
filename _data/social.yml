@@ -1,0 +1,14 @@
+- url: "mailto:jsmankin@ldeo.columbia.edu"
+  title: "fa fa-envelope"
+
+- url: "https://scholar.google.com/citations?user=jpm35hwAAAAJ&hl=en&oi=ao"
+  title: "ai ai-google-scholar-square"
+
+- url: "http://www.researchgate.net/profile/Justin_Mankin"
+  title: "ai ai-researchgate-square"
+
+- url: "http://twitter.com/jsmankin"
+  title: "fa fa-twitter"
+
+- url: "http://github.com/jsmankin"
+  title: "fa fa-github"
