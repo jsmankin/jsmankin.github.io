@@ -1,8 +1,10 @@
-- name: Hydroclimatic uncertainty
+- name: Hydroclimatic variability and dynamics
   description: "There is a high degree of uncertainty in future hydroclimatic changes due to the range of scales
-  required to simulate precipitation in models and the uncertainty inherent in a complex climate. My work aims to understand the sources
-  of this uncertainty (both modeled and real-world) using paleorecords, instrumental observations, and models to improve prediction
-  of the range of hydroclimatic outcomes this coming century."
+  required to simulate precipitation in models and the uncertainty inherent in a complex climate. My work aims
+  to understand the sources  of this uncertainty (both modeled and real-world) using paleo-reconstructions,
+  instrumental observations, and models to improve prediction of the range of hydroclimatic outcomes this
+  coming century. As part of this, I investigate and diagnose the dynamics of low-frequency modes of hydroclimatic
+  variability and identify their consequences for the land surface moisture balance."
   imgSrc: "img/research/nh-snow-b.jpg"
 - name: Human impacts of climate change
   description: " Translating the range of outcomes in physical climate impacts is insufficient to understand what such impacts imply for people
