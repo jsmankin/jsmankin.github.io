@@ -44,28 +44,38 @@
                     <ol reversed="">
                     {% for paper in site.data.published-papers %}
                     	<li>
-                    		{{ paper.authors }}
-                    		{{ paper.year }}:
-                    		{{ paper.title }}
-                    		{% if paper.journalLink %}
-                    			<a class="text-muted" href={{ paper.journalLink }} target='_blank'>
-                    				<i>{{ paper.journal }}</i>
-                    			</a>
-                    		{% else %}
-                    			<i>{{ paper.journal }}</i>
-                    		{% endif %}
-                    		,
-                    		{{ paper.DOI }}
-                    		|
-                        {% if paper.link %}
-                          <a class="text-muted" href={{ paper.link }} target='_blank'>PDF</a>
-                            <br><br>
-                    			</a>
-                    		{% else %}
-                          <a href="mailto:jsmankin@ldeo.columbia.edu?subject={{paper.email}}" target='_blank'>Email to request copy</a>
-                          <br><br>
-                    		{% endif %}
+                        <div class='layout--p-b-10'>
+                      		{{ paper.authors }}
+                      		{{ paper.year }}:
+                      		{{ paper.title }}
+                      		{% if paper.journalLink %}
+                      			<a class="text-muted" href={{ paper.journalLink }} target='_blank'>
+                      				<i>{{ paper.journal }}</i>
+                      			</a>
+                      		{% else %}
+                      			<i>{{ paper.journal }}</i>
+                      		{% endif %}
+                      		,
+                      		{{ paper.DOI }}
+                      		|
+                          {% if paper.link %}
+                            <a class="text-muted" href={{ paper.link }} target='_blank'>PDF</a>
+                      		{% else %}
+                            <a href="mailto:jsmankin@ldeo.columbia.edu?subject={{paper.email}}" target='_blank'>Email to request copy</a>
+                      		{% endif %}
+                        </div>
+                        {% if paper.press %}
+                          <div class='layout--p-b-30 layout--m-l-20'>
+                            See coverage in:
+                            {% for item in site.data[paper.press] %}
+                              <a href={{item.pressLink}} target='_blank' class='layout--p-r-10'>{{ item.press }}</a>
+                            {% endfor %}
+                          </div>
+                        {% else %}
+                          <div class="layout--p-b-20"></div>
+                        {% endif %}
                     	</li>
+
                     {% endfor %}
                     </ol>
                   </div>

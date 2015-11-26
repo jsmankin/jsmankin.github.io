@@ -2,10 +2,11 @@
   title: The potential for snow to supply human water demand in the present and future,
   year: 2015
   journal: Environmental Research Letters
-  journalLink: http://iopscience.iop.org/1748-9326/
-  DOI: in press
+  journalLink: http://iopscience.iop.org/article/10.1088/1748-9326/10/11/114016
+  DOI: DOI 10.1088/1748-9326/10/11/114016
   link: '/papers/erl.pdf'
-  email: Request Mankin erl 2015
+  press: 'erl-press'
+
 
 - authors: Moore, F. C., J. S. Mankin, and A. H. Becker,
   title: "Disciplines: Integrating Climate and Social Sciences, Chapter 4 in"
@@ -14,6 +15,8 @@
   journalLink: http://yalepress.yale.edu/book.asp?isbn=9780300198812
   DOI: Yale University Press
   link:
+  press:
+  pressLink:
   email: Request Moore chapter 2015
 
 - authors: Mankin, J. S. and N. S. Diffenbaugh,
@@ -21,7 +24,9 @@
   year: 2014
   journal: Climate Dynamics
   journalLink: http://link.springer.com/article/10.1007%2Fs00382-014-2357-4
-  DOI: DOI 10.1007/s00382-014-2357-4.
+  DOI: DOI 10.1007/s00382-014-2357-4
+  press:
+  pressLink:
   link: '/papers/Mankin_ClimDyn_2014.pdf'
 
 - authors: Siegfried, T., T. Bernauer, R. Guiennet, S. Sellars, A. W. Robertson, J. S. Mankin, P. Bauer-Gottwein,
@@ -29,7 +34,9 @@
   year: 2011
   journal: Climatic Change
   journalLink: http://link.springer.com/article/10.1007%2Fs00382-014-2357-4
-  DOI: DOI 10.1007/s10584-011-0253-z.
+  DOI: DOI 10.1007/s10584-011-0253-z
+  press:
+  pressLink:
   link: '/papers/Siegfried_ClimChg_2011.pdf'
 
 - authors: Mankin, J. S.,
@@ -38,4 +45,6 @@
   journal: Journal of International Affairs
   journalLink: http://jia.sipa.columbia.edu/pakistan-afghanistan-domestic-pressures-and-regional-threats/
   DOI: Vol. 63, No. 1.
+  press:
+  pressLink:
   link: '/papers/Mankin_JIA_2009.pdf'

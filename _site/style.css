@@ -748,3 +748,26 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #0099FF;
 }
+
+
+/* layout classes */
+
+.layout--p-b-10 {
+  padding-bottom: 10px;
+}
+
+.layout--p-b-20 {
+  padding-bottom: 20px;
+}
+
+.layout--p-b-30 {
+  padding-bottom: 30px;
+}
+
+.layout--m-l-20 {
+  margin-left: 20px;
+}
+
+.layout--p-r-10 {
+  padding-right: 2px;
+}
