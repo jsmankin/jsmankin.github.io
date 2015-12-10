@@ -25,5 +25,11 @@
 - press: environmentalresearchweb,
   pressLink: 'http://environmentalresearchweb.org/cws/article/news/63196'
 
+- press: RadioEcoshock,
+  pressLink: 'https://soundcloud.com/radioecoshock/true-voices'
+
 - press: Earth Institue Press Release
   pressLink: 'http://www.ldeo.columbia.edu/news-events/declining-snowpacks-may-cut-many-nations’-water'
+
+- press: ERL 'Select Paper', ERL 'highly-downloaded' paper
+  pressLink: 'http://iopscience.iop.org/collections;jsessionid=91D5E0FF9BBDBD16F9907F847A513E3E.c1.iopscience.cld.iop.org?collection_type=SELECT&journal=1748-9326&subject=&online_date=all'
