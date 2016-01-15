@@ -37,5 +37,11 @@
 - press: ERL Monthly Highlights Collection,
   pressLink: 'http://iopscience.iop.org/1748-9326/page/2015%20monthly%20highlights'
 
-- press: IOP Select Collection
+- press: IOP Select Collection,
   pressLink: 'http://iopscience.iop.org/collections?collection_type=SELECT'
+
+- press: Academic Minute,
+  pressLink: 'http://academicminute.org'
+
+- press: Columbia Magazine
+  pressLink: 'http://magazine.columbia.edu'
