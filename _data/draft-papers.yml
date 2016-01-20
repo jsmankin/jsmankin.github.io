@@ -8,21 +8,6 @@
   status: under review
   email: Request Schultz & Mankin conflict 2015
 
-- authors: Singh, S., D. L. Swain, J. S. Mankin, D. E. Horton, L. Thomas, and N. S. Diffenbaugh,
-  title: Trends, Physical Causes, and Attribution of the North American Winter Temperature Dipole,
-  status: in prep
-  email: Request Singh et al. NAWD 2015
-
-- authors: Coats, S. and J. S. Mankin,
-  title: Internal variability and drought occurrence in the American Southwest,
-  status: in prep
-  email: Request Coats & Mankin PDSI 2015
-
-- authors: Diffenbaugh, N. S., S. Singh, B. Rajaratnam, A. Charland, M. Haugen, D. E. Horton, J. S. Mankin,  D. L. Swain, D. E. Touma, M. Tsiang,
-  title: Quantifying the influence of observed global warming on the probability of unprecedented extreme climate events,
-  status: in prep
-  email: Request Diffenbaugh et al. extreme events
-
 - authors: Mankin, J. S., et al.,
   title: 'Soil moisture versus Palmer Drought Severity Index: the implications of drought measures for drought occurrence,'
   status: analysis
@@ -32,3 +17,13 @@
   title: The influence of internal variability on the time of emergence and distribution of adaptation benefits,
   status: analysis
   email: Request Mankin et al. Adaptation benefits
+  
+- authors: Singh, S., D. L. Swain, J. S. Mankin, D. E. Horton, L. Thomas, and N. S. Diffenbaugh,
+  title: Trends, Physical Causes, and Attribution of the North American Winter Temperature Dipole,
+  status: in prep
+  email: Request Singh et al. NAWD 2015
+
+- authors: Coats, S. and J. S. Mankin,
+  title: Internal variability and drought occurrence in the American Southwest,
+  status: in prep
+  email: Request Coats & Mankin PDSI 2015
