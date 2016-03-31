@@ -46,16 +46,39 @@
                           <div class="layout--p-b-20"></div>
                         {% endif %}
                     	</li>
-
-                    {% endfor %}
+                      {% endfor %}
                     </ol>
                   </div>
                 </div>
-
+            <div class="row">
+              <h3 class="section-heading">Submitted or in revision</h3>
+              <br>
+    				    <div class="row research-topic">
+                      <div class="col-lg-12">
+                        <ol reversed="">
+                         {% for paper in site.data.submitted-papers %}
+                        	<li>
+                        		{{ paper.authors }}
+                        		{{ paper.title }}
+                        		<i>{{ paper.status }}</i>
+                        		|
+                            {% if paper.link %}
+                              <a class="text-muted" href={{ paper.link }} target='_blank'>PDF</a>
+                                <br><br>
+                        			</a>
+                        		{% else %}
+                              <a href="mailto:jsmankin@ldeo.columbia.edu?subject={{paper.email}}" target='_blank'>Email to request copy</a>
+                              <br><br>
+                        		{% endif %}
+                        	</li>
+                        {% endfor %}
+                        </ol>
+                      </div>
+                    </div>
             <div class="row">
               <h3 class="section-heading">In preparation</h3>
               <br>
-				<div class="row research-topic">
+				        <div class="row research-topic">
                   <div class="col-lg-12">
                     <ol reversed="">
                      {% for paper in site.data.draft-papers %}
@@ -77,7 +100,6 @@
                     </ol>
                   </div>
                 </div>
-
-            </div>
+              </div>
         </div>
     </section>
