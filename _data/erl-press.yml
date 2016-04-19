@@ -49,5 +49,8 @@
 - press: Nature,
   pressLink: 'http://www.nature.com/news/snow-sensing-fleet-to-unlock-water-s-icy-secrets-1.19685'
 
-- press: Desert Sun
+- press: Desert Sun,
   pressLink: 'http://www.desertsun.com/story/news/environment/2016/04/14/climate-change-snowpack-water-supplies/82631192/'
+
+- press: Environmental Research Letters Highlight of 2015
+  pressLink: 'http://iopscience.iop.org/journal/1748-9326/page/Highlights-of-2015'
