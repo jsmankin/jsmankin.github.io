@@ -4,9 +4,8 @@
   journal: 'Journal of Geophysical Research: Atmospheres'
   journalLink: http://agupubs.onlinelibrary.wiley.com/agu/jgr/journal/10.1002/(ISSN)2169-8996/
   DOI:
-  link:
+  link: onlinelibrary.wiley.com/doi/10.1002/2016JD025116/abstract
   press:
-  email: Request Singh et al. NAWD 2016
 
 - authors: Horton, R., <strong>J. S. MANKIN</strong>, C. Lesk, E. Coffel, and C. Raymond,
   title: A Review of Recent Advances in Research on Extreme Heat Events,
@@ -24,7 +23,7 @@
   journal: Environmental Research Letters
   journalLink: http://iopscience.iop.org/article/10.1088/1748-9326/10/11/114016
   DOI: DOI 10.1088/1748-9326/10/11/114016
-  link: '/papers/erl.pdf'
+  link: http://iopscience.iop.org/article/10.1088/1748-9326/10/11/114016/pdf
   press: 'erl-press'
 
 - authors: Moore, F. C., <strong>J. S. MANKIN</strong>, and A. H. Becker,
