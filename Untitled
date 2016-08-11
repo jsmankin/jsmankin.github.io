@@ -1,0 +1,65 @@
+;Choose variables
+var = "SOILPSI"
+
+; Choose significance level
+sig = 0.05
+
+;-Choose experiment
+tp  =  "rcp85";hist"; or rcp
+
+if var.eq."H2OSOI".or.var.eq."SOILPSI" then
+    add="JJA*"
+else
+    add =""
+end if
+
+;--Set whether mid century or end of century
+early = True;False
+
+;do d=0,9
+
+;--Set soil levels to integrate to. 15 levels:(0)  0.007100635, (1)  0.027925, (2) 0.06225858, (3) 0.1188651,(4)  0.2121934,
+;    (5) 0.3660658,(6)  0.6197585, (7)  1.038027, (8) 1.727635, (9) 2.864607, (10)  4.739157, (11)  7.829766, (12)  12.92532, (13) 21.32647, (14) 35.17762
+; NOTE: hydrologically active levels are 0:9.
+depth0 =0
+depth  =9;0;1;14
+levels = ispan(0,14,1)
+
+;--Working directory
+dirin  = "~/SOIL_MOISTURE/DATA/PROCESSED/"
+
+;--Read in PI data, which is the reference against anom calcs
+fin              := systemfunc("ls "+dirin+"b.e11.B1850C5CN.f09_g16.005.*"+var+"*"+add)
+f                := addfile(fin,"r")
+PIdata            = f->$var$(:,depth0:depth,:,:)
+landmask          = f->landfrac
+titles            = PIdata@long_name
+dimD              := dimsizes(PIdata)
+rankD             := dimsizes(dimD)
+time              := cd_calendar(PIdata&time,-1)
+lev               = PIdata&levgrnd
+lat               = PIdata&lat
+lon               = PIdata&lon
+ntime             = dimsizes(time)
+nlev              = dimsizes(lev)
+nlats             = dimsizes(lat)
+nlons             = dimsizes(lon)
+
+;--Calc the depth-based weights for avg (i.e., fraction of [0,1]m soil column in each layer).
+if nlev.eq.1 then
+    wgts    = 1.
+else
+    levDiff           = new(nlev,float,1e20)
+    levDiff(0)        = lev(0)-0
+
+    do i=1,nlev-1
+        levDiff(i)    = lev(i)-lev(i-1)
+    end do
+    lD                = levDiff(depth0:depth)
+    wgts              = lD/sum(lD)
+    delete([/lD,levDiff/])
+end if
+
+;---Calculate standardized PI anomalies
+wgtsC               := conform(PIdata,wgts,1)
+jja_col_mean        = dim_sum_n_Wrap((PIdata * wgtsC),1)
