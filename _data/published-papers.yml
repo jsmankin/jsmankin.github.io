@@ -7,7 +7,6 @@
   press:
   email: Request Ault et al. Megadrought 2016
 
-
 - authors: Coats, S. and <strong>J. S. MANKIN</strong>,
   title: The challenge of accurately quantifying future megadrought risk in the American Southwest,
   year: 2016
@@ -24,8 +23,8 @@
   journal: 'Journal of Geophysical Research: Atmospheres'
   journalLink: 'http://onlinelibrary.wiley.com/doi/10.1002/2016JD025116/abstract'
   DOI: 10.1002/2016JD025116
-  link: '/papers/Singh_JGR-A_2016.pdf'
-  press:
+  link: 'http://onlinelibrary.wiley.com/doi/10.1002/2016JD025116/epdf'
+  press: 'singh_JGR_press'
 
 - authors: Horton, R., <strong>J. S. MANKIN</strong>, C. Lesk, E. Coffel, and C. Raymond,
   title: A Review of Recent Advances in Research on Extreme Heat Events,

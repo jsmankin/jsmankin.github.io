@@ -37,7 +37,7 @@
                         </div>
                         {% if paper.press %}
                           <div class='layout--p-b-30 layout--m-l-20'>
-                            See coverage in:
+                            <i>See media coverage in:  </i> 
                             {% for item in site.data[paper.press] %}
                               <a href={{item.pressLink}} target='_blank' class='layout--p-r-10'>{{ item.press }}</a>
                             {% endfor %}
