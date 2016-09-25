@@ -1,10 +1,10 @@
 - name: Hydroclimatic variability and dynamics
   description: "There is a high degree of uncertainty in future hydroclimatic changes due to the range of scales
-  required to simulate precipitation in models and the uncertainty inherent in a complex climate. My work aims
-  to understand the sources  of this uncertainty (both modeled and real-world) using paleo-reconstructions,
+  required to simulate precipitation and evapotranspiration in models and the uncertainty inherent in a complex climate. My work aims
+  to understand the sources of this uncertainty (both modeled and real-world) using paleo-reconstructions,
   instrumental observations, and models to improve prediction of the range of hydroclimatic outcomes this
-  coming century. As part of this, I investigate and diagnose the dynamics of low-frequency modes of hydroclimatic
-  variability and identify their consequences for the land surface moisture balance. Current projects include a focus on the
+  coming century. As part of this, I investigate and diagnose the drivers of hydroclimatic change and its consequences for terrestrial hydrology,
+  from low-frequency modes of variability to biogeochemistry of the land surface. Current projects include a focus on the
   role of vegetation in determining full-column soil moisture in the American Southwest and persistent drought risks in
   forced versus unforced climates."
   imgSrc: "img/research/nh-snow-b.jpg"
@@ -12,7 +12,7 @@
   description: " Translating the range of outcomes in physical climate impacts is insufficient to understand what such impacts imply for people
   and the systems they value. For example, snow is projected to melt in a warmer world, but the human impacts of less snow depends on where and how
   people use snow to supply water for human consumption. The aim of this work is to incorporate other sciences, both social and natural, to translate physical
-  climate impacts into impacts on humans. Current projects include risks of declines in future water availability given human water demand, a bottom-up
+  climate impacts into impacts on humans. Current projects include an examination of the risks of declines in future water availability given human water demand and a bottom-up
   (agricultural impacts) approach to identifing correlated climate extremes."
   imgSrc: "img/research/snajoaquin4.jpg"
 - name: Agricultural adaptation decision-making
