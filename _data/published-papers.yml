@@ -1,11 +1,12 @@
 - authors: Ault, T. R., <strong>J. S. MANKIN</strong>, B. I. Cook, J. E. Smerdon,
   title: Relative impacts of mitigation, temperature, and precipitation on 21st Century megadrought risk in the American Southwest,
-  year: <i>in press</i>
+  year: 2016
   journal: Science Advances
-  journalLink: 'http://advances.sciencemag.org'
-  link:
-  press:
-  email: Request Ault et al. Megadrought 2016
+  journalLink: 'http://advances.sciencemag.org/content/2/10/e1600873'
+  DOI: 10.1126/sciadv.1600873
+  link: 'http://advances.sciencemag.org/content/advances/2/10/e1600873.full.pdf'
+  press: 'ault_SciAdv_press'
+  email:
 
 - authors: Coats, S. and <strong>J. S. MANKIN</strong>,
   title: The challenge of accurately quantifying future megadrought risk in the American Southwest,
@@ -13,7 +14,7 @@
   journal: 'Geophysical Research Letters'
   journalLink: 'http://onlinelibrary.wiley.com/doi/10.1002/2016GL070445/abstract'
   DOI: 10.1002/2016GL070445
-  link: '/papers/Coats_GRL_2016.pdf'
+  link:
   press:
   email: Request Coats & Mankin GRL 2016
 
@@ -32,7 +33,7 @@
   journal: Current Climate Change Reports
   journalLink: 'http://link.springer.com/article/10.1007/s40641-016-0042-x'
   DOI: 10.1007/s40641-016-0042-x
-  link: '/papers/Horton_CCCR_2016.pdf'
+  link: 'http://download.springer.com/static/pdf/466/art%253A10.1007%252Fs40641-016-0042-x.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs40641-016-0042-x&token2=exp=1475695689~acl=%2Fstatic%2Fpdf%2F466%2Fart%25253A10.1007%25252Fs40641-016-0042-x.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs40641-016-0042-x*~hmac=adcc66941c278715d7a2e457796238bd80419aa9b7f333cdcf745142133da4dd'
   press:
   email: Request Horton heat extremes 2016
 
