@@ -1,5 +1,14 @@
 - press: Stanford Press Release,
   pressLink: 'http://news.stanford.edu/2017/04/24/stanford-scientists-test-links-extreme-weather-climate-change/'
 
-- press: Mercury News
+- press: Associated Press,
+  pressLink: 'http://abcnews.go.com/Technology/wireStory/study-man-made-extreme-weather-hit-world-46990220'
+
+- press: Washington Post,
+  pressLink: 'https://www.washingtonpost.com/news/energy-environment/wp/2017/04/24/record-breaking-climate-events-all-over-the-world-are-being-shaped-by-global-warming-scientists-find'
+
+- press: USA Today,
+  pressLink: 'https://www.usatoday.com/story/weather/2017/04/24/global-warming-blamed-record-breaking-weather-worldwide-scientists-say/100852042/'
+
+- press: San Jose Mercury News
   pressLink: 'http://www.mercurynews.com/2017/04/24/extreme-weather-linked-to-greenhouse-gases-stanford-study-says/ '
