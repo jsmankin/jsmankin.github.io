@@ -24,7 +24,7 @@
 
 - press: The Independent (UK),
   pressLink: 'http://www.independent.co.uk/environment/weather-records-floods-rainfall-heatwave-arctic-global-warming-scientists-climate-change-a7700891.html'
-  
+
 - press: Climate Central,
   pressLink: 'http://www.climatecentral.org/news/how-global-warming-affects-extreme-weather-21382'
 
@@ -34,14 +34,34 @@
 - press: San Jose Mercury News,
   pressLink: 'http://www.mercurynews.com/2017/04/24/extreme-weather-linked-to-greenhouse-gases-stanford-study-says/ '
 
+- press: Houston Chronicle,
+  pressLink: 'http://www.houstonchronicle.com/local/planet-texas/article/New-study-shows-how-scientists-can-measure-11101129.php'
+
 - press: Mashable,
   pressLink: 'http://mashable.com/2017/04/24/global-warming-risk-unprecedented-heat-/#C0lu6a9n7iqR'
 
+- press: Stanford Daily,
+  pressLink: 'http://www.stanforddaily.com/2017/04/25/researchers-show-connection-between-extreme-weather-and-climate-change/'
 - press: Anthropocene Magazine,
   pressLink: 'http://www.anthropocenemagazine.org/2017/04/extreme-weather-attributed-to-climate-change/'
 
 - press: EE News,
   pressLink: 'https://www.eenews.net/climatewire/2017/04/25/stories/1060053521'
 
-- press: Grist
+- press: Grist,
   pressLink: 'http://grist.org/briefly/that-ridiculous-heat-wave-really-was-caused-by-climate-change/'
+
+- press: National Geographic,
+  pressLink: 'http://voices.nationalgeographic.com/2017/04/27/trump-evaluating-stance-on-paris-agreement/'
+
+- press: The Conversation,
+  pressLink: 'https://theconversation.com/extreme-weather-just-might-encourage-us-to-get-our-act-together-on-global-warming-76679'
+
+- press: Scientific American,
+  pressLink: 'https://www.scientificamerican.com/article/irony-levees-could-make-river-flooding-worse/'
+
+- press: Phys.org,
+  pressLink: 'https://phys.org/news/2017-05-extreme-weather-global.html'
+
+- press: The Atlantic
+  pressLink: 'https://www.theatlantic.com/science/archive/2017/05/hot-summers-climate-change/524253/?utm_source=yahoo&yptr=yahoo'
