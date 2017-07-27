@@ -5,7 +5,7 @@
 
 - authors: Smerdon, J. E. et al.,
   title: Comparing data and model estimates of hydroclimate variability and change over the Common Era,
-  status: revising, Climate of the Past
+  status: revising
   email: Request Smerdon et al. PAGES2k/PMIP3
 
 - authors: Cook, B. I., A. P. Williams, <strong> J. S. MANKIN, </strong>, R. Seager, J. E. Smerdon, D. Singh
@@ -37,3 +37,8 @@
   title: Amplification of heat extremes from plant CO2 physiological forcing,
   status: submitted
   email: Request Skinner, et al., CO2-vegetation
+
+- authors: Williams, A. P., Cook, B. I., Smerdon, J. E., Bishop, D. A., Seager, R., <strong>MANKIN, J. S.</strong>,
+  title: 'The 2016 southeastern US drought: an extreme departure from centennial wetting and cooling,'
+  status: submitted
+  email: Request Williams, et al., SE US drought
