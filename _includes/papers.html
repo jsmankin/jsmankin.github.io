@@ -60,11 +60,13 @@
                       		{% else %}
                             <a href="mailto:jsmankin@ldeo.columbia.edu?subject={{paper.email}}" target='_blank'>Email to request copy</a>
                       		{% endif %}
+                          {% if paper.altmetric %}
+                          |
+                          <a data-badge-popover="right" data-badge-type="2" data-doi={{paper.altmetric}} data-hide-no-mentions="false" class="altmetric-embed"></a>
+                          
+                          {% endif %}
                         </div>
-                        {% if paper.altmetric %}
-                        <div data-badge-popover="right" data-badge-type="2" data-doi={{paper.altmetric}} data-hide-no-mentions="false" class="altmetric-embed"></div>
-                        <br>
-                        {% endif %}
+
 
                         {% if paper.press %}
                           <div class='layout--p-b-30 layout--m-l-20'>
