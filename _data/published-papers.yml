@@ -7,6 +7,7 @@
   link: 'https://doi.org/10.1175/JCLI-D-17-0213.1'
   press:
   email:
+  altmetric: "https://doi.org/10.1175/JCLI-D-17-0213.1"
 
 - authors: Diffenbaugh, N.S., D. Singh, <strong>J.S. MANKIN</strong>, A. Charland, M. Haugen, D.E. Horton, D.L. Swain, D.E. Touma, M. Tsiang, B. Rajaratnam
   title: Quantifying the influence of observed global warming on the probability of historically unprecedented extreme climate events
@@ -17,6 +18,7 @@
   link: 'http://www.pnas.org/content/early/2017/04/18/1618082114.abstract'
   press: 'pnas-diff-press'
   email:
+  altmetric: "https://doi.org/10.1073/pnas.1618082114"
 
 
 - authors: <strong>MANKIN, J.S.</strong>, D. Viviroli, A.Y. Hoekstra, R. Horton, J. Smerdon, and N.S. Diffenbaugh
@@ -28,6 +30,7 @@
   link: 'http://iopscience.iop.org/article/10.1088/1748-9326/aa5efc'
   press:
   email:
+  altmetric: "https://doi.org/10.1088/1748-9326/aa5efc"
 
 - authors: Ault, T.R., <strong>J.S. MANKIN</strong>, B.I. Cook, J.E. Smerdon
   title: Relative impacts of mitigation, temperature, and precipitation on 21st Century megadrought risk in the American Southwest
@@ -38,6 +41,7 @@
   link: 'http://advances.sciencemag.org/content/advances/2/10/e1600873.full.pdf'
   press: 'ault_SciAdv_press'
   email:
+  altmetric: "https://doi.org/10.1126/sciadv.1600873"
 
 - authors: Coats, S. and <strong>J.S. MANKIN</strong>
   title: The challenge of accurately quantifying future megadrought risk in the American Southwest
@@ -48,6 +52,7 @@
   link:
   press:
   email: Request Coats & Mankin GRL 2016
+  altmetric: "https://doi.org/10.1002/2016GL070445"
 
 - authors: Singh, S., D. L. Swain, <strong>J.S. MANKIN</strong>, D.E. Horton, L. Thomas, and N.S. Diffenbaugh
   title: Recent amplification of the North American winter temperature dipole
@@ -57,6 +62,7 @@
   DOI: 10.1002/2016JD025116
   link: 'http://onlinelibrary.wiley.com/doi/10.1002/2016JD025116/epdf'
   press: 'singh_JGR_press'
+  altmetric: "https://doi.org/10.1002/2016JD025116"
 
 - authors: Horton, R., <strong>J.S. MANKIN</strong>, C. Lesk, E. Coffel, and C. Raymond
   title: A Review of Recent Advances in Research on Extreme Heat Events
@@ -67,35 +73,39 @@
   link: 'http://download.springer.com/static/pdf/466/art%253A10.1007%252Fs40641-016-0042-x.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs40641-016-0042-x&token2=exp=1475695689~acl=%2Fstatic%2Fpdf%2F466%2Fart%25253A10.1007%25252Fs40641-016-0042-x.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs40641-016-0042-x*~hmac=adcc66941c278715d7a2e457796238bd80419aa9b7f333cdcf745142133da4dd'
   press:
   email: Request Horton heat extremes 2016
+  altmetric: "https://doi.org/10.1007/s40641-016-0042-x"
 
 - authors: <strong>MANKIN, J.S.</strong>, D. Viviroli, D. Singh, A.Y. Hoekstra, and N.S. Diffenbaugh
   title: The potential for snow to supply human water demand in the present and future
   year: 2015
   journal: Environmental Research Letters
   journalLink: 'http://iopscience.iop.org/article/10.1088/1748-9326/10/11/114016'
-  DOI: DOI 10.1088/1748-9326/10/11/114016
+  DOI: 10.1088/1748-9326/10/11/114016
   link: 'http://iopscience.iop.org/article/10.1088/1748-9326/10/11/114016/pdf'
   press: 'erl-press'
+  altmetric: "https://doi.org/10.1088/1748-9326/10/11/114016"
 
 - authors: <strong>MANKIN, J.S.</strong> and N.S. Diffenbaugh
   title: Influence of temperature and precipitation variability on near-term snow trends
   year: 2015
   journal: Climate Dynamics
   journalLink: 'http://link.springer.com/article/10.1007%2Fs00382-014-2357-4'
-  DOI: DOI 10.1007/s00382-014-2357-4
+  DOI: 10.1007/s00382-014-2357-4
   press:
   pressLink:
   link: '/papers/Mankin_ClimDyn_2015.pdf'
+  altmetric: "https://doi.org/10.1007/s00382-014-2357-4"
 
 - authors: Siegfried, T., T. Bernauer, R. Guiennet, S. Sellars, A.W. Robertson, <strong>J.S. MANKIN</strong>, P. Bauer-Gottwein
   title: Will Climate Change Exacerbate or Mitigate Water Stress in Central Asia?
   year: 2011
   journal: Climatic Change
   journalLink: 'http://link.springer.com/article/10.1007/s10584-011-0253-z'
-  DOI: DOI 10.1007/s10584-011-0253-z
+  DOI: 10.1007/s10584-011-0253-z
   press:
   pressLink:
   link: '/papers/Siegfried_ClimChg_2011.pdf'
+  altmetric: "https://doi.org/10.1007/s10584-011-0253-z"
 
 - authors: <strong>MANKIN, J.S.</strong>
   title: "Gaming the system: how Afghan opium underpins local power"
@@ -106,3 +116,4 @@
   press:
   pressLink:
   link: '/papers/Mankin_JIA_2009.pdf'
+  altmetric:
