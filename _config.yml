@@ -2,17 +2,17 @@ url: https://y7kim.github.io
 baseurl:
 
 # Site settings
-title: Justin Mankin
-email: jsmankin@ldeo.columbia.edu
-description: "Earth Institute Postdoctoral Fellow, Lamont-Doherty Earth Observatory and Center for Climate Systems Research at NASA Goddard Institute for Space Studies. I am an interdisciplinary climate scientist."
+title: Dartmouth Climate Group
+email: mankin@dartmouth.edu
+description: "We study climate variability, change, and impacts."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 0099FF
-  secondary: 00CCFF
+  primary: 00693E
+  secondary: 00693E
   secondary-dark: 333
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) 0099FF 00CCFF
 # social:
 #   - title: twitter
 #     url: http://twitter.com/jekyllrb

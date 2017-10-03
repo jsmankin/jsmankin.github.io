@@ -1,27 +1,34 @@
 - name: Hydroclimatic variability and dynamics
-  description: "There is a high degree of uncertainty in future hydroclimatic changes due to the range of scales
-  required to simulate precipitation and turbulent fluxes in models and the uncertainty inherent in a complex climate. My work aims
-  to understand the sources of this uncertainty (both modeled and real-world) using paleoclimate data,
-  instrumental observations, and models to improve prediction of the range of hydroclimatic outcomes this
-  coming century. As part of this, I investigate and diagnose the drivers of historical and future hydroclimatic change and its consequences for terrestrial hydrology
+  description: "What combinations of low- and high-frequency ocean-atmopshere variability generate droughts? Our work aims
+  to understand the forcings of hydroclimatic variability using paleoclimate data,
+  instrumental observations, and models. As part of this, we investigate and diagnose the drivers of historical hydroclimate changes and the consequences for terrestrial hydrology
   — from low-frequency modes of internal variability to vegetation-atmosphere interactions. Current projects include the
   role of vegetation in drought and persistent drought risks in forced versus unforced climates."
-  imgSrc: "img/research/NH_snowB.jpg"
-- name: Human impacts of climate change
+  imgSrc: "img/research/overlay_200GPH_SSTs.png"
+  columns: "col-md-4"
+  columns2: "col-md-6 .col-md-offset-2"
+- name: Model diagnosis and evaluation
+  description: "How well do models simulate the earth system processes we care about and what are the model schemes that  is a high degree of uncertainty in future hydroclimatic changes due to the range of scales required to simulate precipitation and turbulent fluxes in models and the uncertainty inherent in a complex climate. Our work aims to understand the sources of this uncertainty (both modeled and real-world) using paleoclimate data, instrumental observations, and models to improve prediction of the range of hydroclimatic outcomes this coming century. As part of this, we investigate and diagnose the drivers of historical and future hydroclimatic change and its consequences for terrestrial hydrology — from low-frequency modes of internal variability to vegetation-atmosphere interactions. Current projects include the role of vegetation in drought and persistent drought risks in forced versus unforced climates."
+  imgSrc: "img/research/Fig1_ccsm4.png"
+  columns: "col-md-4"
+  columns2: "col-lg-6 .col-md-offset-2"
+- name: Human and ecosystem impacts of climate change
   description: "Translating the range of outcomes in physical climate impacts is insufficient to understand what such impacts imply for people
   and the systems they value. For example, snow is projected to melt in a warmer world, but the human impacts of less snow depends on where and how
   people use snow to supply water for human consumption. The aim of this work is to incorporate other sciences, both social and natural, to translate physical
-  climate impacts into impacts on humans. Current projects include an examination of the risks of declines in future water availability given human water demands and CO2-vegetation interactions and a bottom-up
+  climate impacts into impacts on humans. Current projects include an examination of the risks of declines in future water availability given human water demands and a bottom-up
   approach to identifing correlated climate extremes."
   imgSrc: "img/research/Hydro_Fig4.jpg"
-  #snajoaquin4.jpg"
+  columns: "col-md-4"
+  columns2: "col-lg-6 .col-md-offset-2"
 - name: Adaptation decision-making
   description: "We know that model-simulated internal variability induced by the atmosphere is sufficient to mask, amplify,
   or reverse the direction of anthropogenically-forced trends in temperature, circulation, and precipitation
   at large spatial and temporal scales, complicating adaptation decisions. Characterizing the most likely climate outcome is not sufficient for planning.
-  Rather, quantifying the full extent of outcomes from internal variability under global warming is key to
-  enable adaptation in the face of uncertain climate change threats. Robust decision-making under
-  uncertainty requires the identification of adaptations that produce benefits under the broadest range
-  of outcomes from internal variability. This area of research aims to enable climate risk management and robust decision-making by incorporating these tools into climate
+  Rather, quantifying the full extent of outcomes from internal variability under global warming is key to enable adaptation in the face of uncertain climate change threats. Robust decision-making under
+  uncertainty requires the identification of adaptations that produce benefits under the broadest range of outcomes from internal variability.
+  This area of research aims to enable climate risk management and robust decision-making by incorporating these tools into climate
   science questions. Current projects include identification of the time of emergence and distribution of benefits of agricultural adaptation."
   imgSrc: "img/research/robust_adaptationE.jpg"
+  columns: "col-md-5"
+  columns2: "col-lg-6 .col-md-offset-1"

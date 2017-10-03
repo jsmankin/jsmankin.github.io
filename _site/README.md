@@ -1,5 +1,5 @@
 # Justin Staller Mankin
-## Earth Institute Postdoctoral Fellow
+## PI Dartmouth Climate Group
 
 Agency Jekyll theme
 ====================
@@ -12,7 +12,7 @@ Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templa
 
 Portfolio projects are in '/_posts'
 
-Images are in '/img/portfolio'
+Images are in '/img/'
 
 ###About
 

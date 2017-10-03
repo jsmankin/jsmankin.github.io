@@ -1,3 +1,13 @@
 ---
 layout: style
 ---
+
+.container-test {
+  padding-left: 10px;
+  padding-right: 10px;
+  color: red;
+}
+
+.navbar-brand {
+  padding: 0;
+}
