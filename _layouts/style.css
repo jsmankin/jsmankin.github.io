@@ -1,2 +1,27 @@
 {% include css/bootstrap.min.css %}
 {% include css/agency.css %}
+
+.container {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.navbar {
+  min-height: 90px;
+}
+
+.navbar-default {
+  background-color: white;
+}
+
+.navbar-default .nav li a {
+  color: black;
+}
+
+.navbar-shrink .nav li a {
+  color: white;
+}
+
+.navbar-brand {
+  padding: 0;
+}
