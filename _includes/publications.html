@@ -24,7 +24,7 @@
                                   <br><br>
                                 </a>
                               {% else %}
-                                <a href="mailto:jsmankin@ldeo.columbia.edu?subject={{paper.email}}" target='_blank'>Email to request copy</a>
+                                <a href="mailto:mankin@dartmouth.edu?subject={{paper.email}}" target='_blank'>Email to request copy</a>
                                 <br><br>
                               {% endif %}
                             </li>
@@ -52,13 +52,13 @@
                       		{% else %}
                       			<i>{{ paper.journal }}</i>
                       		{% endif %}
-                      		
+
                       		{{ paper.DOI }}
                       		|
                           {% if paper.link %}
                             <a class="text-muted" href={{ paper.link }} target='_blank'>PDF</a>
                       		{% else %}
-                            <a href="mailto:jsmankin@ldeo.columbia.edu?subject={{paper.email}}" target='_blank'>Email to request copy</a>
+                            <a href="mailto:mankin@dartmouth.edu?subject={{paper.email}}" target='_blank'>Email to request copy</a>
                       		{% endif %}
                           {% if paper.altmetric %}
                           |
@@ -107,7 +107,7 @@
                         {% if paper.link %}
                           <a class="text-muted" href={{ paper.link }} target='_blank'>PDF</a>
                         {% else %}
-                          <a href="mailto:jsmankin@ldeo.columbia.edu?subject={{paper.email}}" target='_blank'>Email to request copy</a>
+                          <a href="mailto:mankin@dartmouth.edu?subject={{paper.email}}" target='_blank'>Email to request copy</a>
                         {% endif %}
                       </div>
                       {% if paper.press %}
