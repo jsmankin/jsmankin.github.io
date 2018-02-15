@@ -6,19 +6,19 @@
   DOI:
   link: 'https://www.nature.com/ncomms/'
   press:
-  email:
+  email: Request Skinner et al. Nat Comms 2018
   altmetric:
 
 - authors: Diffenbaugh, N. S., D. Singh, <strong>J. S. MANKIN</strong>
   title: 'Probability of unprecedented climate events: comparing historical changes with the UN aspirational targets and NDC commitments'
-  year: in press
+  year: 2018
   journal: Science Advances
-  journalLink: 'http://advances.sciencemag.org'
-  DOI: 10.1126/sciadv.1600873
-  link: 'http://advances.sciencemag.org/'
-  press:
-  email:
-  altmetric:
+  journalLink: 'http://advances.sciencemag.org/content/4/2/eaao3354'
+  DOI: 10.1126/sciadv.aao3354
+  link: 'http://advances.sciencemag.org/content/4/2/eaao3354'
+  press: 'diffenbaugh_SciAdv_press'
+  email: Request Diffenbaugh, Singh, Mankin, Science Advances 2018
+  altmetric: 'https://doi.org/10.1126/sciadv.aao3354'
 
 - authors: Cook, B. I., A. P. Williams, <strong> J. S. MANKIN </strong>, R. Seager, J. E. Smerdon, D. Singh
   title: Revisiting the leading drivers of Pacific coastal drought variability in the Contiguous United States
@@ -38,7 +38,7 @@
   journalLink: 'http://journals.ametsoc.org/toc/clim/current'
   DOI: 10.1175/JCLI-D-17-0154.1
   link: 'http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-17-0154.1'
-  press:
+  press: 'ault_JClim_press'
   email: Request Ault et al. Null hypothesis for megadrought
   altmetric: 'https://doi.org/10.1175/JCLI-D-17-0154.1'
 
