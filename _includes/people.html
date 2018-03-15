@@ -1,0 +1,56 @@
+<!-- About Section -->
+    <section id="people">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">People</h2>
+                </div>
+            </div>
+            <br><br>
+            <div class='row'>
+                <div class="container">
+                <div class='col-md-1 vcenter'>
+                </div>
+                <div class='col-md-2 vcenter'>
+                  {% for person in site.data.people %}
+            		<img class='img-responsive img-rounded ' src={{ person.image }} /> <br>
+                <a href={{ person.cv }} target="_blank" class="btn btn-primary" title="Download CV as PDF">Download CV</a>
+                <a href={{ person.website }} target="_blank" class="btn btn-primary" title="Personal Website">Website</a>
+
+              </div>
+              <div class='col-md-7'>
+                <p>
+                <a href= {{ person.email }} target='_blank'>{{ person.name }}</a> person.bio </p>
+              </div>
+                <div class="col-md-1 text-center">
+
+                    <ul class="list-inline social-buttons">
+
+                        <li><a href="mailto:{{ person.email }}"><i class="fa fa-envelope"></i></a>
+                        </li>
+
+                        <li><a href={{ person.twitter }} target='_blank'><i class="fa fa-twitter"></i></a>
+                        </li>
+
+                        <li><a href={{ person.google }} target='_blank'><i class="ai ai-google-scholar-square"></i></a>
+                        </li>
+
+                        <li><a href={{ person.orcid }} target='_blank'><i class="ai ai-orcid"></i></a>
+                        </li>
+
+                        <li><a href={{ person.researchgate }} target='_blank'><i class="ai ai-researchgate-square"></i></a>
+                        </li>
+
+                        <li><a href={{ person.github }} target='_blank'><i class="fa fa-github"></i></a>
+                        </li>
+                    </ul>
+                    <br><br>
+                  </div>
+
+              </div>
+              <br><br>
+            	</div>
+            </div>
+
+        </div>
+    </section>

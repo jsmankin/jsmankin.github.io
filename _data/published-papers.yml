@@ -1,13 +1,24 @@
+- authors: <strong>MANKIN, J. S. </strong>, R. Seager, J. E. Smerdon, B. I. Cook, A. P. Williams, R. M. Horton
+  title: Blue water tradeoffs with CO2-enriched ecosystems
+  year: accepted
+  journal: Geophysical Research Letters
+  journalLink: 'http://agupubs.onlinelibrary.wiley.com/agu/journal/10.1002/(ISSN)1944-8007/'
+  DOI:
+  link: 'http://agupubs.onlinelibrary.wiley.com/agu/journal/10.1002/(ISSN)1944-8007/'
+  press:
+  email: Request Mankin, et al., blue water tradeoff
+  altmetric:
+
 - authors: Skinner, C. B.,  C. J. Poulsen, <strong>J. S. MANKIN</strong>
   title: Amplification of heat extremes by plant CO2 physiological forcing
-  year: accepted
+  year: 2018
   journal: Nature Communications
-  journalLink: 'https://www.nature.com/ncomms/'
-  DOI:
-  link: 'https://www.nature.com/ncomms/'
+  journalLink: 'https://www.nature.com/articles/s41467-018-03472-w'
+  DOI: 10.1038/s41467-018-03472-w
+  link: 'https://www.nature.com/articles/s41467-018-03472-w'
   press:
   email: Request Skinner et al. Nat Comms 2018
-  altmetric:
+  altmetric: 'https://doi.org/10.1038/s41467-018-03472-w'
 
 - authors: Diffenbaugh, N. S., D. Singh, <strong>J. S. MANKIN</strong>
   title: 'Probability of unprecedented climate events: comparing historical changes with the UN aspirational targets and NDC commitments'
