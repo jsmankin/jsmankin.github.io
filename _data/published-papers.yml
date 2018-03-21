@@ -107,7 +107,7 @@
   journalLink: 'http://journals.ametsoc.org/toc/clim/current'
   DOI: 10.1175/JCLI-D-17-0213.1
   link: 'https://doi.org/10.1175/JCLI-D-17-0213.1'
-  press:
+  press: 'mankin_JClim_press'
   email:
   altmetric: "https://doi.org/10.1175/JCLI-D-17-0213.1"
 
