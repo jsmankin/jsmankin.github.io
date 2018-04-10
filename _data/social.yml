@@ -10,6 +10,9 @@
 - url: "http://www.orcid.org/0000-0003-2520-4555"
   title: "ai ai-orcid"
 
+- url: "https://publons.com/author/1432742/justin-mankin#profile"
+  title: "ai ai-publons"
+
 - url: "http://twitter.com/jsmankin"
   title: "fa fa-twitter"
 
