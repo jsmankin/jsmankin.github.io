@@ -1,12 +1,14 @@
 - authors: Cook, B. I., <strong>J. S. MANKIN</strong>, K. Anchukaitis
   title: 'Climate change and drought: from past to future'
-  year: in press
+  year: 2018
   journal: Current Climate Change Reports
-  journalLink: 'https://link.springer.com/journal/40641'
-  DOI:
-  link: 'https://link.springer.com/journal/40641'
+  journalLink: 'https://link.springer.com/article/10.1007/s40641-018-0093-2'
+  DOI: 10.1007/s40641-018-0093-2
+  link: 'https://link.springer.com/epdf/10.1007/s40641-018-0093-2?author_access_token=T1hdYfHGCFbt9ixLNLXzrPe4RwlQNchNByi7wbcMAY7RpRxd_ESwnYfHsVVpnYJ7tBUkUMF8GxzdMENKcFeDyn_cGiqu3A2_SlLGNX7o_2iI1b5DmXeW3uPLfHt9CAbRpjVOpeS_SxHCUZeJ4-nykg=='
   press:
   email: Request Cook, et al., Drought review
+  altmetric: 'https://doi.org/10.1007/s40641-018-0093-2'
+
 
 - authors: <strong>MANKIN, J. S. </strong>, R. Seager, J. E. Smerdon, B. I. Cook, A. P. Williams, R. M. Horton
   title: Blue water tradeoffs with CO2-enriched ecosystems
