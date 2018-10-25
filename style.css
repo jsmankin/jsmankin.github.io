@@ -11,3 +11,9 @@ layout: style
 .navbar-brand {
   padding: 0;
 }
+
+<style>
+h19:before {
+    content: '&#9736 ';
+}
+</style>

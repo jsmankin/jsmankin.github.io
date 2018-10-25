@@ -797,3 +797,10 @@ body {
 .navbar-brand {
   padding: 0;
 }
+
+
+<style>
+h5:before {
+    content: '&#9736 ';
+}
+</style>
