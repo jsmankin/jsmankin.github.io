@@ -1,4 +1,5 @@
 <!-- Services Section -->
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
     <section id="papers">
         <div class="container">
             <div class="row">
@@ -61,17 +62,20 @@
                       		{% else %}
                             <a href="mailto:mankin@dartmouth.edu?subject={{paper.email}}" target='_blank'>Email to request copy</a>
                       		{% endif %}
+                          <br>
                           {% if paper.altmetric %}
-                          |
-                          <a data-badge-popover="right" data-badge-type="2" data-doi={{paper.altmetric}} data-hide-no-mentions="false" class="altmetric-embed"></a>
+                          <a class="altmetric-embed" data-badge-popover="right" data-badge-type="2" data-doi={{paper.altmetric}} data-hide-no-mentions="false"></a>
+                          {% endif %}
 
+                          {% if paper.DOI %}
+                          <a class="__dimensions_badge_embed__" data-doi="{{paper.DOI}}" data-hide-zero-citations="false" data-style="small_rectangle"></a>
                           {% endif %}
                         </div>
 
 
                         {% if paper.press %}
                           <div class='layout--p-b-30 layout--m-l-20'>
-                            <i>See media coverage in:  </i>
+                            <strong>See media coverage in:  </strong>
                             {% for item in site.data[paper.press] %}
                               <a href={{item.pressLink}} target='_blank' class='layout--p-r-10'>{{ item.press }}</a>
                             {% endfor %}
