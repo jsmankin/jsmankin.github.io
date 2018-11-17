@@ -58,7 +58,7 @@
                       		{{ paper.DOI }}
                       		|
                           {% if paper.link %}
-                            <a class="text-muted" href={{ paper.link }} target='_blank'>PDF</a>
+                                                      <a class="text-muted" href={{ paper.link }} target='_blank'>PDF</a>
                       		{% else %}
                             <a href="mailto:mankin@dartmouth.edu?subject={{paper.email}}" target='_blank'>Email to request copy</a>
                       		{% endif %}
