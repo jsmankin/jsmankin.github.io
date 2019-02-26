@@ -1,8 +1,3 @@
-# - authors: <strong>MANKIN, J. S.</strong>, et al.,
-#   title: Perspectives,
-#   status: submitted, Nature Geoscience
-#   email: Request Mankin perspectives
-
 # - authors: <strong>MANKIN, J. S.</strong>, S. Coats, F. Lehner, K. McKinnon,
 #   title: Robust decision making under uncertainty using large ensembles,
 #   status: drafting
@@ -12,6 +7,11 @@
 #   title: The potential for uncertainty reduction in projections of regional water security,
 #   status: drafting
 #   email: Request Lehner perspectives
+
+- authors: <strong>MANKIN, J. S.</strong>, R. Seager, J. E. Smerdon, B. I. Cook, A. P. Williams,
+  title: Projected vegetation responses to climate change decrease regional freshwater availability,
+  status: submitted
+  email: Request Mankin Vegetion-runoff
 
 - authors: <strong>± HE, Y. </strong>, E. Lee, <strong> J. S. MANKIN</strong>,
   title: Observed tropospheric cooling over Northeastern China in response to cropland expansion,
@@ -25,7 +25,7 @@
 
 - authors: ± Raymond, E. & <strong>J. S. MANKIN</strong>,
   title: Coastal moderation of extreme heat in the eastern United States,
-  status: under review
+  status: revising
   email: Request Raymond & Mankin Coastal heat
 
 - authors: <strong>± COFFEL, E.</strong>, B Keith, C. Lesk, E. Bower, J. Lee, R. M. Horton, <strong>J. S. MANKIN</strong>,
