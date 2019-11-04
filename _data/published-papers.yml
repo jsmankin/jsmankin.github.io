@@ -2,12 +2,12 @@
   title: Mid-latitude freshwater availability reduced by projected vegetation responses to climate change
   year: accepted
   journal: Nature Geoscience
-  journalLink: 'https://www.nature.com/ngeo/'
-  DOI:
-  link:
-  press:
+  journalLink: 'https://www.nature.com/articles/s41561-019-0480-x'
+  DOI: 10.1038/s41561-019-0480-x
+  link: 'https://www.nature.com/articles/s41561-019-0480-x'
+  press: 'mankin_natgeo_press'
   email: Request Mankin et al. NG 2019
-  altmetric:
+  altmetric: 'https://doi.org/10.1038/s41561-019-0480-x'
 
 - authors: Lehner, F., A. W. Wood, J. A. Vano, D. M. Lawrence, M. P. Clark, <strong>J. S. Mankin</strong>
   title: The potential to reduce uncertainty in regional runoff projections from climate models
@@ -29,7 +29,7 @@
   link: 'https://iopscience.iop.org/article/10.1088/1748-9326/ab495d/pdf'
   press:
   email: Request Raymond & Mankin ERL 2019
-  altmetric: 'https://doi.org/10.1088/1748-9326/ab495d/'
+  altmetric: 'https://doi.org/10.1088/1748-9326/ab495d'
 
 - authors: <strong>	&diams; </strong><u>Coffel, E. (P)</u>, B Keith, C. Lesk, E. Bower, J. Lee, R. M. Horton, <strong>J. S. Mankin</strong>
   title: More concurrently hot and dry years in the Nile Basin despite increasing precipitation
