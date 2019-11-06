@@ -1,0 +1,51 @@
+- name: Justin Mankin
+  position: PI
+  pic: '/img/IMG2.jpg'
+  bio:
+  cv: "/papers/Mankin_CV.pdf"
+  mail:
+  twitter:
+  google:
+  orcid:
+  researchgate:
+  github:
+  website:
+
+- name: Yaqian He
+  position: CMIG Postdoctoral Fellow
+  pic:
+  bio:
+  cv:
+  mail:
+  twitter:
+  google:
+  orcid:
+  researchgate:
+  github:
+  website:
+
+- name: Ethan Coffel
+  position: Neukom Postdoctoral Fellow
+  pic:
+  bio:
+  cv:
+  mail:
+  twitter:
+  google:
+  orcid:
+  researchgate:
+  github:
+  website:
+
+- name:
+  position: Graduate Student
+  pic:
+  bio:
+  cv:
+  mail:
+  twitter:
+  google:
+  orcid:
+  researchgate:
+  github:
+  website:
