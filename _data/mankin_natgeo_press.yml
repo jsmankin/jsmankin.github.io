@@ -15,11 +15,26 @@
 - press: Phys.org,
   pressLink: 'https://phys.org/news/2019-11-climate-demand-people.html'
 
+- press: International Business Times,
+  pressLink: 'https://www.ibtimes.sg/world-gets-wetter-therell-be-less-water-north-america-eurasia-study-reveals-34044'
+
 - press: Science Daily
   pressLink: 'https://www.sciencedaily.com/releases/2019/11/191104112828.htm'
+
+- press: Water Canada,
+  pressLink: 'https://www.watercanada.net/water-use-by-plant-life-to-make-less-water-available-for-humans/'
 
 - press: Indiana Environmental Reporter,
   pressLink: 'https://www.indianaenvironmentalreporter.org/posts/plants-may-consume-more-water-as-climate-warms-taking-supplies-from-humans'
 
-- press: ZME Science
+- press: ZME Science,
   pressLink: 'https://www.zmescience.com/science/climate-change-water-availability-925264353/'
+
+- press: Presna Latina,
+  pressLink: 'https://www.plenglish.com/index.php?o=rn&id=48775&SEO=climate-change-will-reduce-water-availability'
+
+- press: Homeland Security News,
+  pressLink: 'http://www.homelandsecuritynewswire.com/dr20191107-plants-demand-more-water-as-climate-warms-leaving-less-for-people'
+
+- press: Environmental News Network
+  pressLink: 'https://www.enn.com/articles/60679-despite-a-warmer-wetter-world-there-may-be-less-water-available-for-human-use-study-finds'
