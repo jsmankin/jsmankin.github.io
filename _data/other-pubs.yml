@@ -1,22 +1,29 @@
-- authors: <strong>MANKIN, J.S. </strong>
-  title: "Rotten to the core"
-  year: 2011
-  book: Foreign Policy
-  bookLink: 'http://foreignpolicy.com/2011/05/10/rotten-to-the-core-2/'
-  DOI:
-  link:
-  press:
-  pressLink:
-  email:
+# - authors: <u>Coffel, E. (P)</u> & <strong>J. S. MANKIN</strong>
+#   title: More rain but less water in the Nile Basin
+#   year: 2019
+#   journal: The Conversation
+#   journalLink: 'https://theconversation.com/us'
 
+- authors: <strong>Mankin, J.S. </strong>, R. Seager, J. E. Smerdon, B. I. Cook, A. P. Williams
+  title: Will plants help make the planet wetter or drier in a changing climate?
+  year: 2019
+  journal: Carbon Brief
+  journalLink: 'https://www.carbonbrief.org/guest-post-will-plants-help-make-the-planet-wetter-or-drier-in-a-changing-climate'
 
-- authors: <strong>MANKIN, J.S. </strong>
-  title: "Rotten to the core"
+- authors: Schultz, K. & <strong>J. S. Mankin</strong>
+  year: 2019
+  title: The weather stations that monitor climate change are at risk. This is why.
+  journal: The Washington Post (Monkey Cage)
+  journalLink: 'https://www.washingtonpost.com/politics/2019/04/22/weather-stations-that-monitor-climate-change-are-risk-this-is-why/'
+
+- authors: <strong>Mankin, J.S. </strong>
+  title: Rotten to the core
   year: 2011
-  book: Foreign Policy
-  bookLink: 'http://foreignpolicy.com/2011/05/10/rotten-to-the-core-2/'
-  DOI:
-  link:
-  press:
-  pressLink:
-  email:
+  journal: Foreign Policy
+  journalLink: 'http://foreignpolicy.com/2011/05/10/rotten-to-the-core-2/'
+
+- authors: <strong>Mankin, J.S. </strong>
+  title: Preventive semantics
+  year: 2005
+  journal: Foreign Policy
+  journalLink: 'https://www.jstor.org/stable/i30048155'
