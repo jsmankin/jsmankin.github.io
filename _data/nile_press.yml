@@ -16,5 +16,11 @@
 - press: Phys.org,
   pressLink: 'https://phys.org/news/2019-09-millions-nile.html'
 
-- press: Science Daily
+- press: Science Daily,
   pressLink: 'https://www.sciencedaily.com/releases/2019/08/190828103946.htm'
+
+- press: Smart Water Magazine,
+  pressLink: 'https://smartwatermagazine.com/blogs/justin-s-mankin/future-there-will-be-more-rain-less-water-nile-basin'
+  
+- press: The Conversation
+  pressLink: 'https://theconversation.com/in-the-future-there-will-be-more-rain-but-less-water-in-the-nile-basin-129360'
