@@ -13,10 +13,10 @@
   status: revising
   email: Request Mankin LE-decision-making
 
-# - authors: McDermid, S. S., B. I. Cook, M. DeKauwe, <strong>J. S. Mankin</strong>, J. E. Smerdon, A. P. Williams, R. Seager, M. J. Puma, I. Aleinov, M. Kelley, L. Nazarenko,
-#   title: 'Disentangling the regional climate impacts of competing vegetation responses to elevated [CO2],'
-#   status: submitted
-#   email: Request McDermid et al. CO2
+- authors: McDermid, S. S., B. I. Cook, M. DeKauwe, <strong>J. S. Mankin</strong>, J. E. Smerdon, A. P. Williams, R. Seager, M. J. Puma, I. Aleinov, M. Kelley, L. Nazarenko,
+  title: 'Disentangling the regional climate impacts of competing vegetation responses to elevated atmospheric CO2,'
+  status: submitted
+  email: Request McDermid et al. CO2
 
 - authors: Cook, B. I., <strong>J. S. Mankin</strong>, K. M. Marvel, A. P. Williams, J. E. Smerdon, K. J. Anchukaitis,
   title: Twenty-first century drought projections from the CMIP6 forcing scenarios,
