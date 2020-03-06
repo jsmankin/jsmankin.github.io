@@ -1,17 +1,17 @@
-- authors: Winter, J. M., <u>H. Huang  (G)</u>, E. C. Osterberg, <strong>J. S. Mankin</strong>
-  title: Anthropogenic impacts on the exceptional precipitation of 2018 in the Mid-Atlantic United States
-  year: 2019
-  journal: Bulletin of the American Meteorological Society
-  journalLink: 'https://www.ametsoc.org/ams/index.cfm/publications/bulletin-of-the-american-meteorological-society-bams/explaining-extreme-events-from-a-climate-perspective/'
-  DOI: 10.1175/BAMSD-19-0172.1
-  link: 'https://ametsoc.net/eee/2018/2_Winter0172.pdf'
+- authors: Qin, Y., J. T. Abatzoglou, S. Siebert, L. S. Huning, A. AghaKouchak, <strong>J. S. Mankin</strong>, C. Hong, D. Tong, S. J. Davis, N. D. Mueller
+  title: Agricultural vulnerability to changing snowmelt
+  year: 2020
+  journal: Nature Climate Change
+  journalLink: 'https://www.nature.com/'
+  DOI: in press
+  link: 'https://www.nature.com/articles/'
   press:
-  email: Request Winter et al. BAMS
-  altmetric: 'https://doi.org/10.1175/BAMSD-19-0172.1'
+  email: Request Qin et al. NCC 2020
+  altmetric:
 
 - authors: <strong>	&diams; </strong><u> He, Y.  (P)</u>, E. Lee, <strong> J. S. Mankin</strong>
   title: Seasonal tropospheric cooling over Northeastern China associated with cropland expansion
-  year: 2019
+  year: 2020
   journal: Environmental Research Letters
   journalLink: 'https://iopscience.iop.org/article/10.1088/1748-9326/ab6616'
   DOI: 10.1088/1748-9326/ab6616
@@ -19,6 +19,17 @@
   press:
   email: Request He et al. ERL
   altmetric: 'https://doi.org/10.1088/1748-9326/ab6616'
+
+- authors: Winter, J. M., <u>H. Huang  (G)</u>, E. C. Osterberg, <strong>J. S. Mankin</strong>
+  title: Anthropogenic impacts on the exceptional precipitation of 2018 in the Mid-Atlantic United States
+  year: 2020
+  journal: Bulletin of the American Meteorological Society
+  journalLink: 'https://www.ametsoc.org/ams/index.cfm/publications/bulletin-of-the-american-meteorological-society-bams/explaining-extreme-events-from-a-climate-perspective/'
+  DOI: 10.1175/BAMSD-19-0172.1
+  link: 'https://ametsoc.net/eee/2018/2_Winter0172.pdf'
+  press:
+  email: Request Winter et al. BAMS
+  altmetric: 'https://doi.org/10.1175/BAMSD-19-0172.1'
 
 - authors: Lehner, F., A. W. Wood, J. A. Vano, D. M. Lawrence, M. P. Clark, <strong>J. S. Mankin</strong>
   title: The potential to reduce uncertainty in regional runoff projections from climate models
