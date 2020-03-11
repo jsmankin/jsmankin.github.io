@@ -1,3 +1,9 @@
+- press: The New York Times,
+  pressLink: 'https://www.nytimes.com/interactive/2020/02/09/world/africa/nile-river-dam.html'
+
+- press: The Australian,
+  pressLink: 'https://www.theaustralian.com.au/world/the-times/watershed-moment-for-egypts-exploding-population/news-story/b3b409bdd3c8f75176b424951d23b06d'
+  
 - press: Dartmouth,
   pressLink: 'https://www.dartmouth.edu/press-releases/more_rain_yet_less_water_expected_for_up_to_250_million_people_along_the_nile.html'
 
@@ -9,7 +15,7 @@
 
 - press: The Weather Channel,
   pressLink: 'https://weather.com/news/news/2020-01-15-africa-nile-river-water-shortages-extreme-weather'
-  
+
 - press: Quartz,
   pressLink: 'https://qz.com/1709757/climate-change-threatens-the-niles-critical-water-supply/'
 
