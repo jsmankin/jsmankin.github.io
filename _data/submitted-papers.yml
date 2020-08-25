@@ -18,10 +18,10 @@
   status: revising
   email: Request Schultz & Mankin conflict-climate uncertainty
 
-# - authors: Scheff, J., <strong> J. S. Mankin</strong>, S. Coats, H. Liu,
-#   title: CO2-plant effects fail to account for the gap between dryness indices and projected dryness impacts
-#   status: submitted
-#   email: Request Scheff CO2
+- authors: Scheff, J., <strong> J. S. Mankin</strong>, S. Coats, H. Liu,
+  title: CO2-plant effects do not account for the gap between dryness indices and projected dryness impacts in CMIP5 or CMIP6
+  status: submitted
+  email: Request Scheff CO2
 
 # - Callahan
 # - Alexander
