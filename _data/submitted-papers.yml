@@ -13,10 +13,10 @@
 #   status: submitted
 #   email: Request Callahan Emissions attribution
 #
-# - authors: <strong>	&diams; </strong><u>Coffel, E. (P)</u>, C. Lesk, J. Winter, E. Osterberg, <strong> J. S. Mankin</strong>,
-#   title: Crop-climate feedbacks boost U.S. maize and soy yields
-#   status: submitted
-#   email: Request Coffel et al., Crop-climate feedback
+- authors: <strong>	&diams; </strong><u>Coffel, E. (P)</u>, C. Lesk, J. Winter, E. Osterberg, <strong> J. S. Mankin</strong>,
+  title: Crop-climate feedbacks boost U.S. maize and soy yields
+  status: submitted
+  email: Request Coffel et al., Crop-climate feedback
 
 # - authors: <strong>	&diams; </strong><u>Gottlieb, A. (G)</u> & <strong> J. S. Mankin</strong>,
 #   title: Observing, measuring, and assessing the consequences of snow drought
@@ -37,7 +37,7 @@
   title: CO2-plant effects do not account for the gap between dryness indices and projected dryness impacts in CMIP5 or CMIP6
   status: revising
   email: Request Scheff CO2
-# 
+#
 # - authors: Cook, B. <strong> J. S. Mankin</strong>, A. P. Williams, J. E. Smerdon,
 #   title: The limits and benefits of climate change mitigation for future extreme drought risk in the southwest US
 #   status: submitted
