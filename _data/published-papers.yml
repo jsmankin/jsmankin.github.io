@@ -3,11 +3,11 @@
   year: accepted
   journal: Environmental Research Letters
   journalLink: 'https://iopscience.iop.org/journal/1748-9326'
-  DOI:
-  link: 'https://iopscience.iop.org/journal/1748-9326'
+  DOI: 10.1088/1748-9326/abd4a8 
+  link: 'https://iopscience.iop.org/article/10.1088/1748-9326/abd4a8/meta'
   press:
   email: Request Coffel and Mankin ERL
-  altmetric: ''
+  altmetric: 'https://doi.org/10.1088/1748-9326/abd4a8'
 
 - authors: <strong>	&diams; </strong><strong>Mankin, J. S.</strong>, F. Lehner, S. Coats, K. McKinnon
   title: The value of initial condition large ensembles to robust adaptation decision-making
