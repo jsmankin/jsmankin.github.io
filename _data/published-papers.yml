@@ -3,11 +3,11 @@
   year: accepted
   journal: Environmental Research Letters
   journalLink: 'https://iopscience.iop.org/journal/1748-9326'
-  DOI:
-  link:
+  DOI: 10.1088/1748-9326/abd8fd
+  link: 'https://iopscience.iop.org/article/10.1088/1748-9326/abd8fd'
   press:
   email: Request Scheff et al. ERL
-  altmetric:
+  altmetric: 'https://doi.org/10.1088/1748-9326/abd8fd'
 
 - authors: <strong>	&diams; </strong><u>Coffel, E. (P)</u> & <strong> J. S. Mankin</strong>
   title: Thermal power generation is disadvantaged in a warming world
