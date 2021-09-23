@@ -1,13 +1,24 @@
+- authors: <strong>Mankin, J. S.</strong>, I. Simpson, A. Hoell, R. Fu, J. Lisonbee, A. Sheffield, D. Barrie
+  title: NOAA Drought Task Force Report on the 2020–2021 Southwestern U.S. Drought
+  year: 2021
+  journal: NOAA MAPP/NIDIS
+  journalLink: 'https://www.drought.gov/documents/noaa-drought-task-force-report-2020-2021-southwestern-us-drought'
+  DOI:
+  link: 'https://www.drought.gov/sites/default/files/2021-09/Drought-Task-Force-IV-Southwestern-US-Drought-9-21-21.pdf'
+  press: 'Mankin_NOAA_press'
+  email: Request NOAA DTF report
+  altmetric:
+
 - authors: Cook, B. I., <strong> J. S. Mankin</strong>, A. P. Williams, K. Marvel, J. E. Smerdon, H. Liu
   title: Uncertainties, limits, and benefits of climate change mitigation for soil moisture drought in Southwestern North America
   year: 2021
   journal: Earth's Future
-  journalLink:
-  DOI:
-  link:
-  press:
+  journalLink: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002014'
+  DOI: 10.1029/2021EF002014
+  link: 'https://doi.org/10.1029/2021EF002014'
+  press: 'Cook_EF_press'
   email: Request Cook et al. SWUS Drought
-  altmetric:
+  altmetric: 'https://doi.org/10.1029/2021EF002014'
 
 - authors: Huang, H., C. M. Patricola, J. M. Winter, E. C. Osterberg, <strong> J. S. Mankin</strong>
   title: Rise in Northeast US extreme precipitation caused by Atlantic variability and climate change
