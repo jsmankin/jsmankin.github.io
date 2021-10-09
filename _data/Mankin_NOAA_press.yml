@@ -1,8 +1,8 @@
 - press: The Washington Post,
   pressLink: 'https://www.washingtonpost.com/weather/2021/09/21/southwest-drought-extreme-climate-noaa/'
 
-- press: NOAA Climate Program Office,
-  pressLink: 'https://www.drought.gov/documents/noaa-drought-task-force-report-2020-2021-southwestern-us-drought'
+- press: CNN,
+  pressLink: 'https://www.cnn.com/2021/09/24/us/southwest-drought-forecast-climate-change/index.html'
 
 - press: The Los Angeles Times,
   pressLink: 'https://www.latimes.com/california/story/2021-09-21/southern-california-spurns-drought-conservation-request'
@@ -10,5 +10,29 @@
 - press: Reuters,
   pressLink: 'https://www.reuters.com/business/environment/southwest-us-drought-worst-century-linked-by-noaa-climate-change-2021-09-21/'
 
-- press: Axios
+- press: Axios,
   pressLink: 'https://www.axios.com/energy-environment/climate-change/'
+
+- press: San Jose Mecury News,
+  pressLink: 'https://www.mercurynews.com/2021/09/24/la-nina-is-about-to-take-the-southwest-drought-from-bad-to-worse/'
+
+- press: The Valley News (Article 1),
+  pressLink: 'https://www.vnews.com/Drought-report-reveals-risks-for-northeast-42650918'
+
+- press: The Valley News (Article 2),
+  pressLink: 'https://www.vnews.com/IPCC-report-reveals-local-implications-of-climate-change-41827598'
+
+- press: White Mountain Independent,
+  pressLink: 'https://www.wmicentral.com/news/apache_county/colorado-river-dwindles-towards-crisis/article_d0ff86ac-9f3a-5364-80a0-05c41bd5fdb5.html'
+
+- press: The Dartmouth (Article 1),
+  pressLink: 'https://www.thedartmouth.com/article/2021/10/q-and-a-with-geography-professor-justin-mankin'
+
+- press: The Dartmouth (Article 2)
+  pressLink: 'https://www.thedartmouth.com/article/2021/08/gaylord-west-coast-wildfires-cause-air-pollution-in-hanover'
+
+- press: Dartmouth Press Office,
+  pressLink: 'https://home.dartmouth.edu/news/2021/09/justin-mankin-leads-noaa-research-historic-us-drought'
+
+- press: NOAA Climate Program Office
+  pressLink: 'https://www.drought.gov/documents/noaa-drought-task-force-report-2020-2021-southwestern-us-drought'

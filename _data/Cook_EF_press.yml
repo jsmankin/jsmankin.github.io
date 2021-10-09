@@ -1,5 +1,23 @@
+- press: ABC News,
+  pressLink: 'https://www.abc10.com/article/news/regional/scorched-earth/megadroughts-more-likely-in-western-us/103-d96ea5d6-3542-4fc5-8982-0ef013ebd89b'
+
 - press: AGU,
   pressLink: 'https://news.agu.org/press-release/western-us-faces-future-of-prolonged-drought-even-with-stringent-emissions-control/'
 
-- press: NOAA Climate Program Office
+- press: NOAA Climate Program Office,
   pressLink: 'https://cpo.noaa.gov/News/ArtMID/7875/ArticleID/2366/Study-Dry-Future-Likely-Unavoidable-for-Southwest-But-Reducing-Greenhouse-Gases-Can-Still-Help'
+
+- press: Climate.gov,
+  pressLink: 'https://www.climate.gov/news-features/featured-images/even-small-additional-increases-greenhouse-gases-will-make-decades'
+
+- press: Homeland Security News Wire,
+  pressLink: 'https://www.homelandsecuritynewswire.com/dr20210930-small-increases-in-greenhouse-gases-will-lead-to-decadeslong-megadroughts-in-u-s-southwest'
+
+- press: Circle of Blue,
+  pressLink: 'https://www.circleofblue.org/2021/federal-water-tap/federal-water-tap-september-20-house-committee-approves-30-billion-to-remove-lead-drinking-water-pipes/'
+
+- press: KSL.com,
+  pressLink: 'https://www.ksl.com/article/50251096/experts-say-megadroughts-are-likely-to-be-more-common-in-utahs-future'
+
+- press: EarthSky.org
+  pressLink: 'https://earthsky.org/earth/nasa-drought-research-shows-climate-awareness-value/'
