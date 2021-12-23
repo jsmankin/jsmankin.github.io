@@ -282,7 +282,7 @@ header {
 }
 
 header .intro-text {
-    padding-top: 100px;
+    padding-top: 170px;
     padding-bottom: 50px;
 }
 
@@ -471,6 +471,10 @@ section h3.section-subheading {
 }
 
 @media(min-width:768px) {
+    .navbar-shrink .nav li a {
+        color: white;
+    }
+    
     .timeline:before {
         left: 50%;
     }
