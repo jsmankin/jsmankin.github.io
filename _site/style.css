@@ -289,7 +289,7 @@ header {
 }
 
 header .intro-text {
-    padding-top: 100px;
+    padding-top: 140px;
     padding-bottom: 50px;
 }
 
@@ -790,17 +790,17 @@ body {
   color: black;
 }
 
-.navbar-shrink .nav li a {
-  color: white;
+@media screen and (min-width: 768px) {
+  .navbar-shrink .nav li a {
+    color: white;
+  }
 }
+
 
 .navbar-brand {
   padding: 0;
 }
 
-
-<style>
 h5:before {
     content: '&#9736 ';
 }
-</style>
