@@ -477,11 +477,13 @@ section h3.section-subheading {
     margin-bottom: 0;
 }
 
-@media(min-width:768px) {
-    .navbar-shrink .nav li a {
-        color: white;
+@media(max-width: 767px) {
+    .navbar-default.navbar-shrink .nav {
+        background-color: rgba(28,24,24,0.5);
     }
-    
+}
+
+@media(min-width:768px) {
     .timeline:before {
         left: 50%;
     }
