@@ -1,24 +1,35 @@
+- authors: <strong>	&diams; </strong><u>Coffel, E. (P)</u>, C. Lesk, J. Winter, E. Osterberg, <strong> J. S. Mankin</strong>,
+  title: Crop-climate feedbacks boost U.S. maize and soy yields
+  year: 2022
+  journal: Environmental Research Letters
+  journalLink: 'https://iopscience.iop.org/journal/1748-9326'
+  DOI: 10.1088/1748-9326/ac4aa0
+  link: 'https://iopscience.iop.org/article/10.1088/1748-9326/ac4aa0'
+  press:
+  email: Request Coffel Maize/Soy yield boost
+  altmetric: 'https://doi.org/10.1088/1748-9326/ac4aa0'
+
 - authors: <strong>	&diams; </strong><u>Gottlieb, A. (G)</u> & <strong> J. S. Mankin</strong>
   title: Observing, measuring, and assessing the consequences of snow drought
-  year: in press
+  year: 2022
   journal: Bulletin of the American Meteorological Society
-  journalLink:
-  DOI:
-  link:
-  press:
+  journalLink: 'https://journals.ametsoc.org/view/journals/bams/bams-overview.xml'
+  DOI: BAMS-D-20-0243.1/BAMS-D-20-0243.1
+  link: 'https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-20-0243.1/BAMS-D-20-0243.1.xml'
+  press: 'Gottlieb_snow_press'
   email: Request Gottlieb & Mankin BAMS
-  altmetric:
+  altmetric: 'https://doi.org/10.1175/BAMS-D-20-0243.1'
 
 - authors: Hoell, A., X Quan, M. Hoerling, R. Fu, <strong> J. S. Mankin</strong>, I. Simpson, R. Seager, C. He, J. Lisonbee, B. Livneh, A. Sheffield,
-  title: Record Low 2020 North American Monsoon Rains Reignites American Southwestern Drought,
-  year: in press
+  title: Record Low 2020 North American Monsoon Rains Reignites American Southwestern Drought
+  year: 2022
   journal: Bulletin of the American Meteorological Society
-  journalLink:
-  DOI:
-  link:
+  journalLink: 'https://www.ametsoc.org/ams/index.cfm/publications/bulletin-of-the-american-meteorological-society-bams/explaining-extreme-events-from-a-climate-perspective/'
+  DOI: 10.1175/BAMS-D-21-0129.1
+  link: 'https://www.ametsoc.org/ams/assets/File/publications/EEEin2020/hoell_final.pdf'
   press:
   email: Request Hoell D&A SWUS drought
-  altmetric:
+  altmetric: 'https://doi.org/10.1175/BAMS-D-21-0129.1'
 
 - authors: <strong>Mankin, J. S.</strong>, I. Simpson, A. Hoell, R. Fu, J. Lisonbee, A. Sheffield, D. Barrie
   title: NOAA Drought Task Force Report on the 2020–2021 Southwestern U.S. Drought
