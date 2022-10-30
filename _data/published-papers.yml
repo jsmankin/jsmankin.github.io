@@ -3,22 +3,22 @@
   year: in press
   journal: Science Advances
   journalLink: 'https://www.science.org/journal/sciadv'
-  DOI:
-  link:
+  DOI: 10.1126/sciadv.add3726
+  link: https://www.science.org/doi/10.1126/sciadv.add3726
   press:
   email: Request Callahan Extreme Heat
-  altmetric:
+  altmetric: https://doi.org/10.1126/sciadv.add3726
 
 - authors: Cook, B. I., J. E. Smerdon, E. R. Cook, A. P. Williams, K. P. Anchukaitis, <strong> J. S. Mankin</strong>, alphabetical thereafter
   title: Megadroughts in the Common Era and the Anthropocene
   year: in press
   journal: Nature Reviews Earth & Environment
   journalLink: 'https://www.nature.com/natrevearthenviron/'
-  DOI:
-  link:
+  DOI: '10.1038/s43017-022-00329-1'
+  link: https://doi.org/10.1038/s43017-022-00329-1
   press:
   email: Request Cook Megadrouhgt Review
-  altmetric:
+  altmetric: https://doi.org/10.1038/s43017-022-00329-1
 
 - authors: A. Hoell, , X-W Quan, M. Hoerling, H. F. Diaz, R. Fu, C. He, J. R. Lisonbeeb, A. Sheffield, I. R. Simpsoni,  E. R. Wahl, <strong> J. S. Mankin</strong>, R. Seager
   title: Water Year 2021 Compound Precipitation and Temperature Extremes in California and Nevada
