@@ -1,6 +1,17 @@
+- authors: <strong>	&diams; </strong><u>Callahan, C. (G)</u>, N. J. Dominy, J. M. DeSilva, <strong> J. S. Mankin</strong>
+  title: Global warming, home runs, and the future of America’s pastime
+  year: in press
+  journal: Bulletin of the American Meteorological Society
+  journalLink: 'https://journals.ametsoc.org/view/journals/bams/bams-overview.xml'
+  DOI:
+  link:
+  press:
+  email: Request Callahan Baseball
+  altmetric: https://doi.org/10.1126/sciadv.add3726
+
 - authors: <strong>	&diams; </strong><u>Callahan, C. (G)</u> & <strong> J. S. Mankin</strong>
   title: Globally unequal effect of extreme heat on economic growth
-  year: in press
+  year: 2022
   journal: Science Advances
   journalLink: 'https://www.science.org/journal/sciadv'
   DOI: 10.1126/sciadv.add3726
@@ -498,7 +509,7 @@
   press: 'singh_JGR_press'
   altmetric: "https://doi.org/10.1002/2016JD025116"
 
-- authors: Horton, R., <strong>J.S. Mankin</strong>, ± C. Lesk, <strong> ± E. COFFEL</strong>, ± C. Raymond
+- authors: Horton, R., <strong>J.S. Mankin</strong>, <strong>  C. Lesk</strong>, <strong> E. Coffel</strong>, C. Raymond
   title: A Review of Recent Advances in Research on Extreme Heat Events
   year: 2016
   journal: Current Climate Change Reports
