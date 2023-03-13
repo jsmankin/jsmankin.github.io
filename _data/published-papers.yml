@@ -1,6 +1,17 @@
+- authors: <strong>	&diams; </strong><u>Gottlieb, A. (G)</u> & <strong> J. S. Mankin</strong>
+  title: Snow drought & its impacts - Insights from Quantifying and Sourcing Specific Uncertainties
+  year: 2023
+  journal: Bulletin of the American Meteorological Society
+  journalLink: 'https://journals.ametsoc.org/view/journals/bams/bams-overview.xml'
+  DOI:
+  link:
+  press:
+  email: Request Gottlieb Research Highlight
+  altmetric: 
+
 - authors: <strong>	&diams; </strong><u>Callahan, C. (G)</u>, N. J. Dominy, J. M. DeSilva, <strong> J. S. Mankin</strong>
   title: Global warming, home runs, and the future of America’s pastime
-  year: in press
+  year: 2023
   journal: Bulletin of the American Meteorological Society
   journalLink: 'https://journals.ametsoc.org/view/journals/bams/bams-overview.xml'
   DOI:
@@ -16,7 +27,7 @@
   journalLink: 'https://www.science.org/journal/sciadv'
   DOI: 10.1126/sciadv.add3726
   link: https://www.science.org/doi/10.1126/sciadv.add3726
-  press:
+  press: 'Callahan_SA_press'
   email: Request Callahan Extreme Heat
   altmetric: https://doi.org/10.1126/sciadv.add3726
 
@@ -61,7 +72,7 @@
   journalLink: 'https://link.springer.com/article/10.1007/s10584-022-03387-y'
   DOI: 10.1007/s10584-022-03387-y
   link: https://link.springer.com/content/pdf/10.1007/s10584-022-03387-y.pdf
-  press:
+  press: 'Callahan_CC_press'
   email: Request Callahan attribution
   altmetric: 'https://doi.org/10.1007/s10584-022-03387-y'
 
