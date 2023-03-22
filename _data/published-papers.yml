@@ -3,7 +3,7 @@
   year: 2023
   journal: Bulletin of the American Meteorological Society
   journalLink: 'https://journals.ametsoc.org/view/journals/bams/bams-overview.xml'
-  DOI:
+  DOI: 
   link:
   press:
   email: Request Gottlieb Research Highlight
@@ -33,7 +33,7 @@
 
 - authors: Cook, B. I., J. E. Smerdon, E. R. Cook, A. P. Williams, K. P. Anchukaitis, <strong> J. S. Mankin</strong>, alphabetical thereafter
   title: Megadroughts in the Common Era and the Anthropocene
-  year: in press
+  year: 2023
   journal: Nature Reviews Earth & Environment
   journalLink: 'https://www.nature.com/natrevearthenviron/'
   DOI: '10.1038/s43017-022-00329-1'
@@ -42,16 +42,16 @@
   email: Request Cook Megadrouhgt Review
   altmetric: https://doi.org/10.1038/s43017-022-00329-1
 
-- authors: A. Hoell, , X-W Quan, M. Hoerling, H. F. Diaz, R. Fu, C. He, J. R. Lisonbeeb, A. Sheffield, I. R. Simpsoni,  E. R. Wahl, <strong> J. S. Mankin</strong>, R. Seager
+- authors: Hoell, A. , X-W Quan, M. Hoerling, H. F. Diaz, R. Fu, C. He, J. R. Lisonbeeb, A. Sheffield, I. R. Simpsoni,  E. R. Wahl, <strong> J. S. Mankin</strong>, R. Seager
   title: Water Year 2021 Compound Precipitation and Temperature Extremes in California and Nevada
-  year: in press
+  year: 2022
   journal: Bulletin of the American Meteorological Society
   journalLink: 'https://www.ametsoc.org/ams/index.cfm/publications/bulletin-of-the-american-meteorological-society-bams/explaining-extreme-events-from-a-climate-perspective/'
-  DOI:
-  link:
+  DOI: '10.1175/BAMS-D-22-0112.1'
+  link: 'https://journals.ametsoc.org/view/journals/bams/103/12/BAMS-D-22-0112.1.xml'
   press:
   email: Request Hoell CA-NV attribution
-  altmetric:
+  altmetric: 'https://doi.org/10.1175/BAMS-D-22-0112.1'
 
 - authors: <strong>	&diams; </strong><u>Coffel, E. (P)</u>, </strong><u>C. Lesk (P)</u>, & <strong> J. S. Mankin</strong>
   title: Earth system model overestimation of cropland temperatures scales with agricultural intensity
