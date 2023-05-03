@@ -1,3 +1,15 @@
+- authors: <strong>	&diams; </strong><u>Callahan, C. (G)</u> & <strong> J. S. Mankin</strong>
+  title: Persistent effect of El Niño on global economic growth
+  year: in press
+  journal: Science
+  journalLink: 'https://www.science.org/journal/science'
+  DOI: 
+  link: 
+  press:
+  email: Request Callahan ENSO
+  altmetric: 
+
+
 - authors: <strong>	&diams; </strong><u>Gottlieb, A. (G)</u> & <strong> J. S. Mankin</strong>
   title: Snow drought & its impacts - Insights from Quantifying and Sourcing Specific Uncertainties
   year: 2023
@@ -14,11 +26,12 @@
   year: 2023
   journal: Bulletin of the American Meteorological Society
   journalLink: 'https://journals.ametsoc.org/view/journals/bams/bams-overview.xml'
-  DOI:
-  link:
+  DOI: 10.1175/BAMS-D-22-0235.1
+  link: https://doi.org/10.1175/BAMS-D-22-0235.1
   press:
   email: Request Callahan Baseball
-  altmetric: 
+  altmetric: https://doi.org/10.1175/BAMS-D-22-0235.1
+
 
 - authors: <strong>	&diams; </strong><u>Callahan, C. (G)</u> & <strong> J. S. Mankin</strong>
   title: Globally unequal effect of extreme heat on economic growth
