@@ -5,7 +5,7 @@
   journalLink: 'https://www.nature.com/'
   DOI: 10.1038/s41586-023-06794-y
   link: 'https://www.nature.com/articles/s41586-023-06794-y'
-  press:
+  press: 'Gottlieb_attribution'
   email: Request Gottlieb Snow Attribution
   altmetric: 'https://doi.org/10.1038/s41586-023-06794-y'
 
@@ -13,10 +13,10 @@
   title: Persistent effect of El Niño on global economic growth
   year: 2023
   journal: Science
-  journalLink: 'https://www.science.org/journal/science'
+  journalLink: 'https://www.science.org/doi/full/10.1126/science.adf2983'
   DOI: 10.1126/science.adf2983
   link: 'https://www.science.org/doi/full/10.1126/science.adf2983'
-  press:
+  press: 'Callahan_ENSO'
   email: Request Callahan ENSO
   altmetric: 'https://doi.org/10.1126/science.adf2983'
 
@@ -39,7 +39,7 @@
   journalLink: 'https://journals.ametsoc.org/view/journals/bams/bams-overview.xml'
   DOI: 10.1175/BAMS-D-22-0235.1
   link: https://doi.org/10.1175/BAMS-D-22-0235.1
-  press:
+  press: 'Callahan_baseball'
   email: Request Callahan Baseball
   altmetric: https://doi.org/10.1175/BAMS-D-22-0235.1
 
