@@ -1,11 +1,26 @@
 - press: Associated Press,
   pressLink: 'https://apnews.com/article/el-nino-costly-warming-trillions-weather-fef931ec1230713d10fe4dd2abc4cd93'
 
+- press: BBC,
+  pressLink: 'https://www.bbc.co.uk/sounds/play/w172z09rywgx32h'
+
+- press: The Economist,
+  pressLink: 'https://www.economist.com/the-americas/2023/07/06/this-years-el-nino-will-hit-peru-especially-hard'
+
 - press: Washington Post,
   pressLink: 'washingtonpost.com/weather/2023/05/18/el-nino-economic-impact-climate-change/'
 
-- press: Bloomberg,
+- press: NY Times,
+  pressLink: 'https://www.nytimes.com/2023/04/11/climate/oil-gas-subsidies-climate.html?'
+
+- press: LA Times (front page),
+  pressLink: 'https://www.latimes.com/environment/story/2023-05-19/return-of-el-nino-would-have-far-reaching-impacts'
+
+- press: Bloomberg (1 of 2),
   pressLink: 'https://www.bloomberg.com/news/articles/2023-05-18/economic-losses-from-extreme-weather-is-severely-underestimated'
+
+- press: Bloomberg (2 of 2),
+  pressLink: 'https://www.bloomberg.com/graphics/2023-el-nino-climate-change-extreme-weather/?leadSource=uverify%20wall'
 
 - press: Grist,
   pressLink: 'https://grist.org/climate/el-nino-could-cost-global-economy-3-trillion/'
@@ -22,8 +37,40 @@
 - press: Dartmouth News,
   pressLink: 'https://home.dartmouth.edu/news/2023/05/years-after-el-nino-global-economy-loses-trillions'
 
-- press: LA Times,
+- press: LA Times Op-Ed,
   pressLink: 'https://www.latimes.com/opinion/story/2023-05-25/el-nino-climate-change-california-economy-cost'
 
-- press: Carbon Brief
+- press: Carbon Brief,
   pressLink: 'https://www.carbonbrief.org/analysis-the-climate-papers-most-featured-in-the-media-in-2023/'
+
+- pres: Grist,
+  pressLink: 'https://grist.org/climate/el-nino-could-cost-global-economy-3-trillion/'
+
+- press: Gizmodo,
+  pressLink: 'https://gizmodo.com/el-nino-gdp-economic-loss-climate-1850450784'
+
+- press: USA Today,
+  pressLink: 'https://www.usatoday.com/story/news/nation/2023/05/18/el-nino-weather-event-cost/70228835007/'
+
+- press: Washington Post Opinion,
+  pressLink: 'https://www.washingtonpost.com/business/energy/2023/05/24/what-exxon-won-t-tell-you-about-climate-costs/ebf57d4a-fa30-11ed-bafc-bf50205661da_story.html'
+
+- press: Financial Times,
+  pressLink: 'https://www.ft.com/content/233aa05b-06fa-46cf-8cd1-73d0f65ab26d'
+
+- press: The World,
+  pressLink: 'https://theworld.org/media/2023-06-09/new-el-ni-o-weather-pattern-has-arrived-and-could-be-bad-news-global-temperatures'
+
+- press: Vox,
+  pressLink: 'https://www.vox.com/climate/23738846/el-nino-2023-weather-heat-wave-climate-change-disaster-flood-rain'
+
+- press: BBC Future,
+  pressLink: 'https://www.bbc.com/future/article/20230525-what-will-an-el-nino-in-2023-mean-for-you'
+
+- press: Globe & Mail,
+  pressLink: 'https://www.theglobeandmail.com/canada/article-el-nino-canada-climate-change/'
+
+- press: Le Monde
+  pressLink: 'https://www.lemonde.fr/en/summer-reads/article/2023/08/23/el-nino-and-la-nina-the-enfants-terribles-of-the-climate_6104852_183.html?random=425230366'
+
+
