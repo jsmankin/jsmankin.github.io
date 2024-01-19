@@ -62,8 +62,9 @@
                       		{% else %}
                             <a href="mailto:mankin@dartmouth.edu?subject={{paper.email}}" target='_blank'>Email to request copy</a>
                       		{% endif %}
+                          | 
                           {% if paper.code %}
-                          <a class="text-muted" href={{ paper.code }} target='_blank'> | Replication Code</a>                    
+                          <a class="text-muted" href={{ paper.code }} target='_blank'>Replication Code</a>                    
                         {% endif %}
                           <br>
                           {% if paper.altmetric %}
