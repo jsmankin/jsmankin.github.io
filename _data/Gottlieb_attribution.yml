@@ -43,6 +43,17 @@
 - press: Globe & Mail,
   pressLink: 'https://www.theglobeandmail.com/canada/article-loss-of-snow-and-impact-on-water-supplies-tied-to-climate-change'
 
-- press: The Independent
+- press: The Independent,
   pressLink: 'https://www.independent.co.uk/climate-change/news/snowpack-loss-alexander-gottlieb-justin-mankin-b2477936.html'
 
+- press: NHPR,
+  pressLink: 'https://www.nhpr.org/nh-news/2024-01-24/noticing-less-snow-in-new-england-researchers-are-too'
+
+- press: NOAA,
+  pressLink: 'https://www.drought.gov/news/climate-change-behind-sharp-drop-snowpack-1980s-2024-01-24'
+
+- press: NPR Where We Live,
+  pressLink: 'https://www.ctpublic.org/show/where-we-live/2024-01-23/when-snow-goes-away'
+  
+- press: Heatmap
+  pressLink: 'https://heatmap.news/lifestyle/ski-snowboard-season-snow-climate-change'
