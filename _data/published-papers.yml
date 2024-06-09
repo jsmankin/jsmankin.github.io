@@ -2,13 +2,37 @@
   title: Emergent trends complicate the interpretation of the United States Drought Monitor
   year: 2024
   journal: AGU Advances
-  journalLink: 'https://agupubs.onlinelibrary.wiley.com/journal/2576604x'
-  DOI: 
-  link: ''
+  journalLink: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023AV001070x'
+  DOI: 10.1029/2023AV001070
+  link: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023AV001070'
   code: ''
-  press: ''
+  press: 'Li_USDM'
   email: Request Li USDM trends
-  altmetric: ''
+  altmetric: 'https://doi.org/10.1029/2023AV001070'
+
+- authors:  Fallah, A., M. A. Barlow, L. Agel, J. Kim, <strong>J. S. Mankin</strong>, D. M. Mocko, C. B. Skinner
+  title: Impact of vegetation assimilation on flash drought characteristics across the continental United States
+  year: 2024
+  journal: Journal of Hydrometeorology
+  journalLink: 
+  DOI: 
+  link:
+  code: 
+  press:
+  email: Request Fallah Flash Drought
+  altmetric:
+
+- authors: <strong>	&diams; </strong><u>Callahan, C. (G)</u>, N. J. Dominy, J. M. DeSilva, <strong> J. S. Mankin</strong>
+  year: 2024
+  title: 'Research Highlight: Global warming juices MLB home runs'
+  journal: Bulletin of the American Meteorological Society
+  journalLink: 'https://journals.ametsoc.org/view/journals/bams/bams-overview.xml'
+  DOI: 10.1175/BAMS-D-22-0235.1
+  link: https://doi.org/10.1175/BAMS-D-22-0235.1
+  code: 'https://github.com/ccallahan45/Callahan-et-al_ClimateBaseball_2023'
+  press: 'Callahan_baseball'
+  email: Request Callahan Baseball Highlight
+  altmetric: https://doi.org/10.1175/BAMS-D-22-0235.1
 
 - authors: <strong>	&diams; </strong><u>Gottlieb, A. (G)</u> & <strong> J. S. Mankin</strong>
   title: Evidence of human influence on Northern Hemisphere snow loss
@@ -105,7 +129,6 @@
   press:
   email: Request Coffel et al., ESM cropland bias
   altmetric: 'https://doi.org/10.1029/2021GL097135'
-
 
 - authors: <strong>	&diams; </strong><u>Callahan, C. (G)</u> & <strong> J. S. Mankin</strong>
   title: National attribution of historical climate damages
