@@ -1,11 +1,47 @@
-- authors: <strong>	&diams; </strong><u>Li, Z. (P)</u>, J. E Smerdon, R. Seager,  <u>N. Siegert (RA)</u>, <strong>Mankin, J. S.</strong>
+- authors: <strong>	&diams; </strong><u>Callahan, C. (G)</u> & <strong> J. S. Mankin</strong>,
+  title: Carbon majors and the scientific case for climate liability
+  year: in press
+  journal: Nature
+  journalLink: 'https://www.nature.com/'
+  DOI: 
+  link: 'https://www.nature.com//'
+  code: 
+  press: 
+  email: Request Callahan Majors
+  altmetric: 
+
+- authors: <strong>	&diams; </strong><u>Lesk, C. (P)</u>, J. Winter,  <strong>J. S. Mankin,</strong>
+  title: Projected runoff declines from plant physiological effects on precipitation
+  year: in press
+  journal: Nature Water
+  journalLink: 'https://www.nature.com/natwater/'
+  DOI: 
+  link: 'https://www.nature.com/natwater/'
+  code: 
+  press: 
+  email: Request Lesk BGC
+  altmetric: 
+ 
+- authors: Byrne, M. P., G. Hegerl, J. Scheff, A. Berg, C. Hohenegger, V. Humphrey, M. M. Lague, F. H. Lambert, <strong>J. S. Mankin</strong>, K. A. McColl, K. A. McKinnon, A. G. Pendergrass, Lucas Vargas Zeppetello, Y. Zhang, 
+  title: Theory and the future of land-climate science
+  year: 2024
+  journal: Nature Geoscience
+  journalLink: 'https://www.nature.com/articles/s41561-024-01553-8'
+  DOI: 10.1038/s41586-023-06794-y
+  link: 'https://www.nature.com/articles/s41561-024-01553-8'
+  code: 
+  press: 
+  email: Request Byrne Simple Theories
+  altmetric: 'https://doi.org/10.1038/s41561-024-01553-8'
+ 
+- authors: <strong>	&diams; </strong><u>Li, Z. (P)</u>, J. E Smerdon, R. Seager,  <u>N. Siegert (RA)</u>, <strong>J. S. Mankin,</strong>
   title: Emergent trends complicate the interpretation of the United States Drought Monitor
   year: 2024
   journal: AGU Advances
   journalLink: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023AV001070x'
   DOI: 10.1029/2023AV001070
   link: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023AV001070'
-  code: ''
+  code: 'https://zenodo.org/records/10819637'
   press: 'Li_USDM'
   email: Request Li USDM trends
   altmetric: 'https://doi.org/10.1029/2023AV001070'
@@ -14,13 +50,13 @@
   title: Impact of vegetation assimilation on flash drought characteristics across the continental United States
   year: 2024
   journal: Journal of Hydrometeorology
-  journalLink: 
-  DOI: 
-  link:
+  journalLink: https://journals.ametsoc.org/view/journals/hydr/25/9/JHM-D-23-0219.1.xml
+  DOI: 10.1175/JHM-D-23-0219.1
+  link: https://doi.org/10.1175/JHM-D-23-0219.1
   code: 
   press:
   email: Request Fallah Flash Drought
-  altmetric:
+  altmetric: https://doi.org/10.1175/JHM-D-23-0219.1
 
 - authors: <strong>	&diams; </strong><u>Callahan, C. (G)</u>, N. J. Dominy, J. M. DeSilva, <strong> J. S. Mankin</strong>
   year: 2024
