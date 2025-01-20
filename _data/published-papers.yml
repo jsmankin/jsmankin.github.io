@@ -12,15 +12,15 @@
 
 - authors: <strong>	&diams; </strong><u>Lesk, C. (P)</u>, J. Winter,  <strong>J. S. Mankin,</strong>
   title: Projected runoff declines from plant physiological effects on precipitation
-  year: in press
+  year: 2025
   journal: Nature Water
-  journalLink: 'https://www.nature.com/natwater/'
-  DOI: 
-  link: 'https://www.nature.com/natwater/'
-  code: 
+  journalLink: 'https://www.nature.com/natwater/articles/s44221-024-00361-z'
+  DOI: s44221-024-00361-z
+  link: 'https://www.nature.com/natwater/articles/s44221-024-00361-z'
+  code: 'https://github.com/clesk/runoff_plants_co2'
   press: 
   email: Request Lesk BGC
-  altmetric: 
+  altmetric: 'https://doi.org/10.1038/s44221-024-00361-z'
  
 - authors: Byrne, M. P., G. Hegerl, J. Scheff, A. Berg, C. Hohenegger, V. Humphrey, M. M. Lague, F. H. Lambert, <strong>J. S. Mankin</strong>, K. A. McColl, K. A. McKinnon, A. G. Pendergrass, Lucas Vargas Zeppetello, Y. Zhang, 
   title: Theory and the future of land-climate science
