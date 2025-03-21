@@ -1,6 +1,6 @@
 - authors: Ospina et al.
   title: Ten New Insights on Climate Science 2024,
-  status: submitted
+  status: under review
   email: Request 10NICS
  
 - authors: Jiang, Y., J. E. Smerdon, R. Seager, G. Wang, B. I. Cook, C. Zheng, <strong>J. S. Mankin</strong>,  A. P. Williams
@@ -8,14 +8,9 @@
   status: submitted
   email: Request Jiang WUS drought
 
-- authors: <strong>	&diams; Mankin, J. S.</strong>, <u>N. Siegert (RA)</u> , J. E Smerdon , B. I. Cook , R. Seager , A. P. Williams , <u>C. S. Lesk (P)</u> , <u>Z. Li (P)</u>, H. Singh , <u>E. D. Martinez (U)</u>,
-  title: Nonlinear carbon feedbacks diminish future freshwater availability,
-  status: revising
-  email: Request Mankin C4MIP
-
 - authors: Pollack, A., J. Campbell, C. Madison, C. Cooper, M. Coronese, J. Doss-Gollin, P. Hedge, C. Helgeson, <u>C. Lesk (P)</u>, <strong>J. S. Mankin</strong>, E. Mayfield, R. Nicholas, S. Roth, V. Srikrishnan, N. Tuana, K. Keller,  
   title: Peer-reviewed climate change research has a transparency problem. The scientific community needs to do better,
-  status: under review
+  status: revising
   email: Request Pollack Perspective
 
 - authors: <strong>	&diams; </strong><u>Gottlieb, A. (G)</u> & <strong> J. S. Mankin</strong>,
@@ -25,5 +20,5 @@
 
 - authors: <strong>	&diams; </strong><u>Gottlieb, A. (G)</u> & <strong> J. S. Mankin</strong>,
   title: Observed daily temperature records outpace model predic- tions for a third of humanity
-  status: submitted
+  status: under review
   email: Gottlieb & Mankin Records
