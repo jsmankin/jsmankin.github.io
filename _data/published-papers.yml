@@ -1,13 +1,35 @@
+- authors: Jiang, Y., J. E. Smerdon, R. Seager, G. Wang, B. I. Cook, C. Zheng, <strong>J. S. Mankin</strong>,  A. P. Williams
+  title: The influence of land-surface conditions on the 2020-21 Western US Drought
+  year: 2025
+  journal: Water Resources Research
+  journalLink: 'https://doi.org/10.1029/2024WR038124'
+  DOI: 10.1029/2024WR038124	
+  link: 'https://doi.org/10.1029/2024WR038124'
+  press: 
+  email: Request Jiang WRR 2025
+  altmetric: 'https://doi.org/10.1029/2024WR038124'
+
+- authors: Schaeffer, R. et al. (10NICS author team),
+  title: Ten New Insights on Climate Science 2024
+  year: 2025
+  journal: One Earth
+  journalLink: 'https://www.cell.com/one-earth/home'
+  DOI: S2590-3322(25)00111-3
+  link: 'https://www.cell.com/one-earth/fulltext/S2590-3322(25)00111-3'
+  press:
+  email: 'Request 10NICS'
+  altmetric: 'https://doi.org/S2590-3322(25)00111-3'
+
 - authors: <strong>	&diams; Mankin, J. S.</strong>, <u>N. Siegert (RA)</u> , J. E Smerdon , B. I. Cook , R. Seager , A. P. Williams , <u>C. S. Lesk (P)</u> , <u>Z. Li (P)</u>, H. Singh , <u>E. D. Martinez (U)</u>,
   title: Nonlinear carbon feedbacks in CMIP6 and their impacts on future freshwater availability
   year: 2025
   journal: Journal of Climate
   journalLink: 'http://journals.ametsoc.org/toc/clim/current'
-  DOI: 
+  DOI: 10.1175/JCLI-D-24-0028.1	
   link: 
   press: 
-  email:
-  altmetric:
+  email: Request Mankin JCLIM 2025
+  altmetric: 'https://doi.org/10.1175/JCLI-D-24-0028.1'
 
 - authors: <strong>	&diams; </strong><u>Callahan, C. (G)</u> & <strong> J. S. Mankin</strong>,
   title: Carbon majors and the scientific case for climate liability
@@ -17,7 +39,7 @@
   DOI: 10.1038/s41586-025-08751-3
   link: 'https://www.nature.com//'
   code: 'https://ieee-dataport.org/open-access/replication-carbon-majors-and-scientific-case-climate-liability'
-  press: 
+  press: 'CarbonMajors'
   email: Request Callahan Majors
   altmetric: 'https://doi.org/10.1038/s41586-025-08751-3' 
 
@@ -30,7 +52,7 @@
   link: 'https://www.nature.com/natwater/articles/s44221-024-00361-z'
   code: 'https://github.com/clesk/runoff_plants_co2'
   press: 
-  email: Request Lesk BGC
+  email: Request Lesk NatGeo 2025
   altmetric: 'https://doi.org/10.1038/s44221-024-00361-z'
  
 - authors: Byrne, M. P., G. Hegerl, J. Scheff, A. Berg, C. Hohenegger, V. Humphrey, M. M. Lague, F. H. Lambert, <strong>J. S. Mankin</strong>, K. A. McColl, K. A. McKinnon, A. G. Pendergrass, Lucas Vargas Zeppetello, Y. Zhang, 
