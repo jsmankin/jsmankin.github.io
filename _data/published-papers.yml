@@ -7,7 +7,7 @@
   link: 'https://doi.org/10.1029/2024WR039724'
   press: 
   email: Gottlieb & Mankin SCE
-  code: 'https://github.com/alex-gottlieb/snow_nonlinearity'
+  code: 'https://zenodo.org/records/16327166'
   altmetric: 'https://doi.org/10.1029/2024WR039724'
 
 - authors: Jiang, Y., J. E. Smerdon, R. Seager, G. Wang, B. I. Cook, C. Zheng, <strong>J. S. Mankin</strong>,  A. P. Williams
@@ -50,7 +50,7 @@
   journal: Nature
   journalLink: 'https://www.nature.com/'
   DOI: 10.1038/s41586-025-08751-3
-  link: 'https://www.nature.com//'
+  link: 'https://doi.org/10.1038/s41586-025-08751-3'
   code: 'https://ieee-dataport.org/open-access/replication-carbon-majors-and-scientific-case-climate-liability'
   press: 'CarbonMajors'
   email: Request Callahan Majors
