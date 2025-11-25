@@ -145,13 +145,13 @@
   title: Snow drought & its impacts - Insights from Quantifying and Sourcing Specific Uncertainties
   year: 2023
   journal: Bulletin of the American Meteorological Society
-  journalLink: 'https://journals.ametsoc.org/view/journals/bams/bams-overview.xml'
-  DOI: 10.1175/BAMS-D-20-0243.1
-  link: 'http://bibliotheque.meteo.fr/exl-php/cadcgp.php?CMD=CHERCHE&MODELE=vues/mf_-_internet_recherche_avancee_anonyme/tpl-r.html&WHERE_IS_DOC_REF_LIT=DOC00055683&&TABLE=ILS_DOC'
+  journalLink: 'https://journals.ametsoc.org/view/journals/bams/104/2/BAMS-D-20-0243.A.xml'
+  DOI: '10.1175/BAMS-D-20-0243.1'
+  link: 'https://journals.ametsoc.org/view/journals/bams/104/2/BAMS-D-20-0243.A.xml'
   code: 'https://github.com/alex-gottlieb/snow_drought'
   press:
   email: Request Gottlieb Research Highlight
-  altmetric: 
+  altmetric: 'https://doi.org/10.1175/BAMS-D-20-0243.A'
 
 - authors: <strong>	&diams; </strong><u>Callahan, C. (G)</u>, N. J. Dominy, J. M. DeSilva, <strong> J. S. Mankin</strong>
   title: Global warming, home runs, and the future of America’s pastime

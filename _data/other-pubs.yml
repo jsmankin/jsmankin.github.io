@@ -1,8 +1,14 @@
 - authors:  <strong>Mankin, J. S.</strong>, A. R. Gottlieb (P), C. W. Callahan
-  title: National climate damages traceable to emissions from the U.S. power sector
+  title: Climate damages to the U.S. economy from U.S. transportation emissions, 10.5281/zenodo.17080804
   year: 2025
   journal: Sabin Center Climate Attribution Database
-  journalLink: 'https://github.com/jsmankin/power_sector'
+  journalLink: 'https://zenodo.org/records/17080804'
+
+- authors:  <strong>Mankin, J. S.</strong>, A. R. Gottlieb (P), C. W. Callahan
+  title: Climate damages to the U.S. economy from U.S. power sector emissions, 10.5281/zenodo.16874810
+  year: 2025
+  journal: Sabin Center Climate Attribution Database
+  journalLink: 'https://doi.org/10.5281/zenodo.16874810'
 
 - authors: <u>Lesk, C. S. (P)</u>, S. Shukla, W. B. Anderson, B. I. Cook, & <strong> J. S. Mankin</strong>
   title: Continental drying unlikely to explain recent sea-level rise, Reply to Seo et al., Abrupt sea level rise and Earth's gradual pole shift reveal permanent hydrological regime changes in the 21st century
