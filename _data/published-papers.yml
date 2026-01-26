@@ -1,3 +1,16 @@
+- authors: Pollack, A., J. Campbell, C. Madison, C. Cooper, M. Coronese, J. Doss-Gollin, P. Hedge, C. Helgeson, <u>C. Lesk (P)</u>, <strong>J. S. Mankin</strong>, E. Mayfield, R. Nicholas, S. Roth, V. Srikrishnan, N. Tuana, K. Keller 
+  title: Unlocking the benefits of transparent and reusable science for climate-risk management
+  year: 2026
+  journal: Proceedings of the National Academy of Sciences
+  journalLink: 'https://www.pnas.org/'
+  DOI: 10.1073/pnas.2422157123
+  link: "https://doi.org/10.1073/pnas.2422157123"
+  press:
+  email: Request Pollack Perspective
+  code: 'https://zenodo.org/records/10291042'
+  altmetric: "https://doi.org/10.1073/pnas.2422157123"
+
+
 - authors: <strong>	&diams; </strong><u>Gottlieb, A. (G)</u> & <strong> J. S. Mankin</strong>
   title: Subseasonal temperature variability drives nonlinear snow loss with warming
   year: 2025
@@ -67,6 +80,18 @@
   press: 
   email: Request Lesk NatGeo 2025
   altmetric: 'https://doi.org/10.1038/s44221-024-00361-z'
+
+- authors: <strong>	&diams; </strong><u>Callahan, C. (G)</u>, N. J. Dominy, J. M. DeSilva, <strong> J. S. Mankin</strong>
+  year: 2025
+  title: 'Reply to Sato and Kohyama'
+  journal: Bulletin of the American Meteorological Society
+  journalLink: 'https://journals.ametsoc.org/view/journals/bams/bams-overview.xml'
+  DOI: 10.1175/BAMS-D-24-0269.1
+  link: https://doi.org/10.1175/BAMS-D-24-0269.1
+  code: 'https://github.com/ccallahan45/Callahan-et-al_ClimateBaseball_2023'
+  press: 
+  email: Request Callahan Baseball Reply
+  altmetric: https://doi.org/10.1175/BAMS-D-24-0269.1
  
 - authors: Byrne, M. P., G. Hegerl, J. Scheff, A. Berg, C. Hohenegger, V. Humphrey, M. M. Lague, F. H. Lambert, <strong>J. S. Mankin</strong>, K. A. McColl, K. A. McKinnon, A. G. Pendergrass, Lucas Vargas Zeppetello, Y. Zhang, 
   title: Theory and the future of land-climate science
