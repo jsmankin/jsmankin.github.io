@@ -1,51 +1,354 @@
-- name: Justin Mankin
-  position: PI
-  pic: '/img/IMG2.jpg'
-  bio:
-  cv: "/papers/Mankin_CV.pdf"
-  mail:
-  twitter:
-  google:
-  orcid:
-  researchgate:
-  github:
-  website:
+# ============================================================
+# People Data File
+# ============================================================
+# To add a new person: copy a template entry below and fill in fields.
+# To move someone to "former": change group to "former".
+# To reorder people within a group: move their entry up or down.
+#
+# Fields:
+#   name        - Full name (required)
+#   pronouns    - e.g. "she/her", "he/him", "they/them"
+#   group       - "current" or "former" (required)
+#   pic         - Path to headshot in /img/ (required)
+#   bio         - HTML bio text (required)
+#   cv          - Path to CV PDF in /papers/ (optional, omit if none)
+#   mail        - Email address (optional)
+#   twitter     - Full Twitter/X URL (optional)
+#   google      - Full Google Scholar URL (optional)
+#   orcid       - Full ORCID URL (optional)
+#   researchgate - Full ResearchGate URL (optional)
+#   github      - Full GitHub URL (optional)
+#   website     - Personal website URL with link text (optional)
+#                 Format: { url: "https://...", text: "Name" }
+# ============================================================
 
-- name: Yaqian He
-  position: CMIG Postdoctoral Fellow
-  pic:
-  bio:
-  cv:
-  mail:
-  twitter:
-  google:
-  orcid:
-  researchgate:
-  github:
-  website:
+# ---------------------------
+# Current Group Members
+# ---------------------------
+
+- name: Stella Potemkin
+  pronouns: "she/her"
+  group: current
+  pic: "/img/Stella Headshot.jpg"
+  cv: "/papers/StellaPotemkinCV.pdf"
+  mail: stella.potemkin.gr@dartmouth.edu
+  bio: >
+    is a PhD student in <a href="https://graduate.dartmouth.edu/eees/" target="_blank">Dartmouth's
+    Ecology, Evolution, Ecosystems, and Society (EEES) program.</a> She's interested in better
+    understanding how future climate change can exacerbate economic inequality in the developing world.
+    Her work aims to quantify the impact of hydroclimatic extremes, like extreme drought, to inform
+    adaptation efforts. Stella is from Colorado and graduated from Rice University in 2023 with a BA in
+    <a href="https://eeps.rice.edu/" target="_blank">Earth, Environmental and Planetary Science</a> and
+    <a href="https://ga.rice.edu/programs-study/departments-programs/social-sciences/social-policy-analysis/"
+    target="_blank">Social Policy Analysis.</a>
+
+- name: Madeleine Burns
+  pronouns: "she/her"
+  group: current
+  pic: "/img/BurnsMadeleine.jpg"
+  cv: "/papers/BurnsMadeleine_CV.pdf"
+  mail: madeleine.burns.gr@dartmouth.edu
+  bio: >
+    is a PhD student in <a href="https://graduate.dartmouth.edu/eees/" target="_blank">Dartmouth's
+    Ecology, Evolution, Ecosystems, and Society (EEES) program</a>. She is interested in understanding
+    and predicting regional hydroclimatic change in the western U.S. Originally from southwest Colorado,
+    she also seeks to investigate climate change impacts and adaptation options for western communities.
+    Madeleine holds a B.S.E. in <a href="https://cee.princeton.edu/" target="_blank">Environmental
+    Engineering from Princeton University</a>, awarded in 2024.
+
+- name: Maggie O'Shea
+  pronouns: "she/her"
+  group: current
+  pic: "/img/moshea_profile.jpeg"
+  cv: "/papers/CV_MaggieOShea_2.pdf"
+  mail: margaret.oshea.gr@dartmouth.edu
+  bio: >
+    is a PhD student in <a href="https://sites.dartmouth.edu/EEES/" target="_blank">Dartmouth's
+    Ecology, Evolution, Ecosystems, and Society (EEES)</a> program. She is most interested in research
+    that helps to quantify the socioeconomic costs of climate impacts through linking climate models with
+    tools from economics. Prior to joining Dartmouth, she received her BA in
+    <a href="https://www.bates.edu/environment/" target="_blank">Environmental Studies at Bates College</a>
+    and received her Masters from <a href="https://nicholas.duke.edu/admissions/duke-environment-masters-degrees"
+    target="_blank">Duke University, where she studied Environmental Economics</a>.
+
+- name: Flora Perlmutter
+  pronouns: "she/her"
+  group: current
+  pic: "/img/flora.jpg"
+  cv: "/papers/PerlmutterCV9_12_2022.pdf"
+  mail: flora.l.perlmutter.gr@dartmouth.edu
+  bio: >
+    is a PhD student in the Climate Modeling & Impacts Group, interested in large scale hydroclimate
+    and its response with climate change. She is interested in using her findings to help inform
+    adaptation efforts. Flora is from California and holds a BA in
+    <a href="https://eps.wustl.edu/biogeochemistry-and-organic-geochemistry" target="_blank">Geochemistry
+    and Environmental Biology from Washington University in St. Louis</a>, awarded in 2022.
+
+- name: Dr. Robert Fofrich
+  pronouns: "he/him"
+  group: current
+  pic: "/img/Picture1.jpg"
+  cv: "/papers/rfofrich CV.pdf"
+  mail: Robert.A.Fofrich@dartmouth.edu
+  bio: >
+    is a postdoctoral scholar in the Climate Modeling & Impacts Group. His research focuses on
+    decarbonization and the attribution of climate-related damages. He earned his PhD in
+    <a href="https://www.ess.uci.edu/" target="_blank">Earth System Science from the University of
+    California, Irvine,</a> where he researched climate change mitigation and adaptation efforts with
+    a focus on energy and agricultural systems. He was previously a
+    <a href="https://ppfp.ucop.edu/info/" target="_blank">University of California President's
+    Postdoctoral Fellow</a> at the <a href="https://www.ioes.ucla.edu/" target="_blank">University of
+    California, Los Angeles,</a> and has also held research appointments with the
+    <a href="https://impactlab.org/" target="_blank">Climate Impact Lab</a> at
+    <a href="https://earthscipol.net/" target="_blank">Rutgers University</a> and as an undergraduate
+    at <a href="https://climatesciences.jpl.nasa.gov/" target="_blank">NASA's Jet Propulsion Laboratory.</a>
+
+- name: Dr. Alex Gottlieb
+  pronouns: "he/him"
+  group: current
+  pic: "/img/gottlieb_headshot.jpg"
+  cv: "/papers/Gottlieb_CV_Jan22.pdf"
+  mail: Alexander.Reid.Gottlieb@dartmouth.edu
+  bio: >
+    is a postdoctoral scholar in CMIG. He recieved his PhD in
+    <a href="https://sites.dartmouth.edu/EEES/" target="_blank">Dartmouth's Ecology, Evolution,
+    Ecosystems, and Society (EEES) program in September 2025</a>. His research focuses on understanding
+    how changes to the form, frequency, and intensity of precipitation in a warming climate interact
+    with processes at the land surface to shape water availability for people and ecosystems. His current
+    efforts focus on end-to-end attribution of flood damages.</p> <p>He's from Pittsburgh, Pennsylvania
+    and graduated from <a href="https://politics.princeton.edu/" target="_blank">Princeton University in
+    2018 with a BA in Politics</a> and certificates in
+    <a href="https://csml.princeton.edu/undergraduates/certificate-program" target="_blank">Computer
+    Science, Statistics and Machine Learning</a>.
+
+- name: Justin Mankin
+  pronouns: "he/him"
+  group: current
+  pic: "/img/IMG2.jpg"
+  cv: "/papers/Mankin_short_CV.pdf"
+  mail: mankin@dartmouth.edu
+  twitter: "http://twitter.com/jsmankin"
+  google: "https://scholar.google.com/citations?user=jpm35hwAAAAJ&hl=en&oi=ao"
+  orcid: "http://www.orcid.org/0000-0003-2520-4555"
+  researchgate: "http://www.researchgate.net/profile/Justin_Mankin"
+  github: "http://github.com/jsmankin"
+  bio: >
+    is a climate scientist, associate professor in the
+    <a href="http://geography.dartmouth.edu/people/justin-s-mankin" target="_blank">Department of
+    Geography</a> at <a href="http://dartmouth.edu" target="_blank">Dartmouth College</a>, and PI of the
+    Dartmouth Climate Modeling & Impacts Group. He also holds courtesy appointments in
+    <a href="https://earthsciences.dartmouth.edu/" target="_blank">the Department of Earth & Planetary
+    Sciences (EAPS)</a> and <a href="http://sites.dartmouth.edu/EEES/" target="_blank">the Ecology,
+    Evolution, Environment, & Society (EEES) graduate program</a>, and is an Adjunct Research Scientist
+    in the <a href="https://www.ldeo.columbia.edu/research/ocean-climate-physics" target="_blank">Division
+    of Ocean & Climate Physics at Lamont-Doherty Earth Observatory of Columbia University</a>. His
+    interdisciplinary research constrains the uncertainty essential to understanding and responding to
+    climate change's impacts on people and ecosystems. He is a former co-lead of the
+    <a href="https://cpo.noaa.gov/Meet-the-Divisions/Earth-System-Science-and-Modeling/MAPP/MAPP-Task-Forces/Drought-Task-Force4"
+    target="_blank">NOAA Drought Task Force</a>, is a current NCA6 Graphics Lead Author, and is an Editor
+    for <a href="https://agupubs.onlinelibrary.wiley.com/journal/23284277" target="_blank">AGU's Earth's
+    Future</a> and <a href="https://www.ametsoc.org/index.cfm/ams/publications/journals/journal-of-climate/"
+    target="_blank">AMS's Journal of Climate</a>.</p>
+    <p>His previous career was as an intelligence officer working in South Asia and the Middle East. He's
+    from Vermont, did his postdoctoral training at Lamont-Doherty Earth Observatory of Columbia University
+    and NASA's Goddard Institute for Space Studies, and holds degrees from Columbia (BA, MPA), the London
+    School of Economics (MSc), and Stanford (PhD).
+
+# ---------------------------
+# Former Group Members
+# ---------------------------
 
 - name: Ethan Coffel
-  position: Neukom Postdoctoral Fellow
-  pic:
-  bio:
-  cv:
-  mail:
-  twitter:
-  google:
-  orcid:
-  researchgate:
-  github:
+  group: former
+  pic: "/img/coffel_pic.jpg"
+  cv: "/papers/coffel-cv.pdf"
+  mail: Ethan.D.Coffel@dartmouth.edu
+  google: "https://scholar.google.com/citations?user=_l8-k3MAAAAJ&hl=en"
+  researchgate: "https://www.researchgate.net/profile/Ethan_Coffel"
   website:
+    url: "http://www.ethancoffel.com"
+    text: "Ethan"
+  bio: >
+    is a former <a href="http://neukom.dartmouth.edu/programs/neukom_fellows_app.html"
+    target="_blank">Neukom Postdoctoral Fellow</a> in the Climate Modeling & Impacts Group. Ethan
+    studies how climate change is affecting extreme weather and how to quantify the impacts of these
+    changes on human societies and natural ecosystems. He strives to understand the physical mechanisms
+    driving changes in the climate and to clearly communicate climate change projections and their
+    uncertainty.</p> <p>He's from Iowa, has a BA from <a href="https://www.northwestern.edu/"
+    target="_blank">Northwestern University</a>, and received his PhD from
+    <a href="http://eesc.columbia.edu/" target="_blank">Columbia University</a>, where he studied
+    extreme heat and its impacts on human health and infrastructure. Ethan is now an assistant professor
+    of geography at Syracuse University.
 
-- name:
-  position: Graduate Student
-  pic:
-  bio:
-  cv:
-  mail:
-  twitter:
-  google:
-  orcid:
-  researchgate:
-  github:
+- name: Yaqian He
+  group: former
+  pic: "/img/YH.jpg"
+  cv: "/papers/CV_Yaqian.pdf"
+  mail: yaqian.he@dartmouth.edu
   website:
+    url: "https://yaqianhe.wordpress.com/"
+    text: "Yaqian"
+  bio: >
+    is a former Postdoctoral Research Fellow in the Climate Modeling & Impacts Group.
+    She uses remote sensing, statistics, and climate science to explore the effects of human-induced
+    land use and land cover changes on monsoon climates, including the West Africa monsoon and the
+    East Asia monsoon. In particular, she applies remote sensing to classify the land surface and
+    statistical and climate models to examine the underlying physical mechanisms. Yaqian is now an
+    assistant professor of geography at the University of Central Arkansas.</p>
+    <p>Yaqian holds a Bachelors in Survey Engineering from <a href="http://eng.cumt.edu.cn/"
+    target="_blank">China University of Mining and Technology</a>, an M.S. in Cartography and GIS
+    from the School of Geography at <a href="http://geo.english.bnu.edu.cn/" target="_blank">Beijing
+    Normal University, China,</a> and a PhD from the <a href="http://pages.geo.wvu.edu/~elee/"
+    target="_blank">Climatology Lab in the Department of Geography at West Virginia University</a>.
+
+- name: Marnee Singh
+  pronouns: "they/them"
+  group: former
+  pic: "/img/Harry.jpg"
+  mail: harmanveer.singh@stonybrook.edu
+  bio: >
+    was a researcher in the Climate Modeling & Impacts Group, interested in analyzing the overlying
+    meteorology during drought events. Marnee's previous research experience includes observing
+    free-tropospheric ozone trends over Northern California and analyzing the relationship between
+    high-ozone events aloft and corresponding surface-level conditions. Marnee is from New York City
+    and holds a BA from <a href="http://eesc.columbia.edu/" target="_blank">Columbia University</a>.
+    Marnee is now a PhD student in the <a href="https://you.stonybrook.edu/kareed/"
+    target="_blank">Climate Extremes Modeling (CEM) Group at Stony Brook University</a>.
+
+- name: Emily Martinez
+  pronouns: "she/her"
+  group: former
+  pic: "/img/Emily.png"
+  mail: Emily.D.Martinez.21@dartmouth.edu
+  bio: >
+    is a former undergraduate researcher in CMIG. She earned a BE in
+    <a href="https://engineering.dartmouth.edu/academics/undergraduate/ab/modified/environmental">Environmental
+    Engineering</a> from Thayer School of Engineering at Dartmouth. She is originally from Bell,
+    California and it was her upbringing in the LA County that ultimately influenced her interest in
+    the environment. She has research experience analyzing the environmental impacts of microplastics
+    in polar regions as well as conducting Life Cycle Assessments for commercial products. Emily has
+    since developed a passion for understanding climate change and the impact air pollution has on the
+    environment. Outside of academics, she was a part of the
+    <a href="https://www.dartmouth.edu/~triathlon/?DB_OEM_ID=11610#page-top">Dartmouth Triathlon
+    Team</a> and competes in both short and long-distance triathlons.
+
+- name: Zhiying Li
+  pronouns: "she/her"
+  group: former
+  pic: "/img/AVATAR_Zhiying.jpg"
+  cv: "/papers/Zhiying Li_CV_public_v2.pdf"
+  mail: Zhiying.Li@dartmouth.edu
+  website:
+    url: "https://zhiyingli-geo.com/"
+    text: "Zhiying"
+  bio: >
+    is a former Postdoctoral Research Fellow in Dartmouth's Climate Modeling & Impacts Group. She works
+    to understand the variability, drivers, and impacts of hydroclimatic extremes, such as drought and
+    flooding, and water availability in a warming climate, using a wide range of approaches, including
+    fully coupled Earth System Models, process-based hydrologic models, hydrologic theory, statistical
+    analysis, and GIS. Her most recent project is about drought monitoring in a nonstationary climate
+    in the contiguous U.S. Zhiying is now an assistant professor at the
+    <a href="https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/full-time/li-zhiying.html"
+    target="_blank">O'Neill School of Public and Environmental Affairs at Indiana University
+    Bloomington</a>.</p> <p>Zhiying Li holds a Bachelors in Soil and Water Conservation from
+    <a href="https://en.nwsuaf.edu.cn/">Northwest A&F University</a>, China, an M.S. in Physical
+    Geography from the <a href="https://english.ucas.ac.cn/">University of Chinese Academy of
+    Sciences</a>, China, and a Ph.D. from the <a href="https://geography.osu.edu/">Department of
+    Geography at The Ohio State University</a>. She recently won The Story Exchange's
+    <a href="https://thestoryexchange.org/announcing-winners-women-in-science-incentive-prize/">Women
+    in Science Prize</a>.
+
+- name: Noel Siegert
+  pronouns: "he/him"
+  group: former
+  pic: "/img/SIEGERT_NOEL.jpg"
+  mail: Noel.Van.Antwerp.Siegert@dartmouth.edu
+  bio: >
+    is a former research assistant in the Dartmouth Climate Modeling & Impacts group. Primarily
+    interested in the intersection between climate, migration, and human development, previous research
+    involvements include studying robust decision-making approaches to water resource management. In his
+    free time, he enjoys playing the trumpet and spending time outside. He is from Ipswich,
+    Massachusetts and graduated from Dartmouth College in 2021 where he studied Geography, Spanish, and
+    Economics. He is currently a PhD student at
+    <a href="https://eesc.columbia.edu/" target="_blank">Columbia University</a>.
+
+- name: Grace Bryant
+  pronouns: "she/her"
+  group: former
+  pic: "/img/IMG-3411.jpg"
+  mail: grace.a.bryant.23@dartmouth.edu
+  bio: >
+    will graduate from Dartmouth College with a degree in Earth Science. She is interested in the
+    impact of climate change on global human health. She completed her Senior Earth Sciences thesis
+    project with the Climate Modeling & Impacts Group to investigate the effects of snow drought on
+    wildfire activity in the western United States. In her free time she loves to ski, backpack and
+    bake cookies.
+
+- name: Christopher Callahan
+  pronouns: "he/him"
+  group: former
+  pic: "/img/callahan_headshot.jpg"
+  cv: "/papers/CV_Christopher_Callahan.pdf"
+  mail: Christopher.W.Callahan.GR@dartmouth.edu
+  twitter: "https://twitter.com/cwcallahan45"
+  google: "https://scholar.google.com/citations?user=iDJmH2cAAAAJ&hl=en"
+  github: "https://github.com/ccallahan45"
+  website:
+    url: "https://ccallahan45.github.io/"
+    text: "Chris"
+  bio: >
+    graduated with his PhD from <a href="https://sites.dartmouth.edu/EEES/" target="_blank">Dartmouth's
+    Ecology, Evolution, Ecosystems, and Society (EEES) program in August 2023</a>. His National Science
+    Foundation Graduate Research Fellowship-funded research focused socioeconomic impacts of global
+    warming, combining climate models and empirical methods to understand the economic impacts of hazards
+    like heat waves and El Niño events.</p> <p>He's from the suburbs of Chicago, and he graduated from
+    <a href="https://www.envsci.northwestern.edu/" target="_blank">Northwestern University</a> in 2018
+    with a BA in Environmental Science, where he also led Northwestern's award-winning debate team and
+    collaborated with researchers at the University of Chicago. He is currently a postdoctoral fellow at
+    Stanford University.
+
+- name: Katya Pronichenko
+  pronouns: "she/her"
+  group: former
+  pic: "/img/katya.png"
+  mail: katya.pronichenko.23@dartmouth.edu
+  bio: >
+    is a former Geography and Environmental Science major at Dartmouth College who graduated in 2023.
+    While part of CMIG, Katya investigated how different climate models represent post-wildfire
+    regrowth, and wildfire's implications for drought and water availability. When she is not working,
+    Katya loves to spend time in nature. One of her favorite pastimes is paragliding and appreciating
+    the grand scale of the Earth's natural wonders. She is currently an energy supply chain analyst at
+    Wood Mackenzie in San Francisco.
+
+- name: Erica Simon
+  pronouns: "she/her"
+  group: former
+  pic: "/img/Erica_Simon.jpg"
+  mail: erica.l.simon.25@dartmouth.edu
+  bio: >
+    studied Computer Science and Geography at Dartmouth College. She was a
+    <a href="https://neukom.dartmouth.edu/funding/students/neukom-scholars-program"
+    target="_blank">Neukom Scholar</a> in the Climate Modeling & Impacts group, where she worked to
+    assess projections of plant growth in the American West and its implications for future water
+    availability. In her free time, Erica enjoys exploring Pine Park, playing lacrosse, and hiking.
+
+- name: Corey Lesk
+  pronouns: "he/him"
+  group: former
+  pic: "/img/lesk_headshot.png"
+  cv: "/papers/CoreyLesk_CV_2022.pdf"
+  mail: Corey.S.Lesk@dartmouth.edu
+  google: "https://scholar.google.com/citations?user=2mx-kUcAAAAJ&hl=en&oi=ao"
+  bio: >
+    was a <a href="https://neukom.dartmouth.edu/funding/faculty/postdoctoral-fellows"
+    target="_blank">Neukom Postdoctoral Fellow</a> and a
+    <a href="https://frq.gouv.qc.ca/en/program/scholarships-2nd-and-3rd-cycle-2022-2023/"
+    target="_blank">Fonds de recherche du Québec – Nature et technologies (FRQNT) Fellow</a> in the
+    Climate Modeling & Impacts Group. He is an environmental scientist interested in climate change
+    and its impacts on people and nature. During his PhD at <a href="https://eesc.columbia.edu/"
+    target="_blank">Columbia University</a>, he studied how weather has affected food crops
+    historically, drawing lessons to help adapt agriculture to a more extreme climate. He also
+    assessed the greenhouse gas emissions likely to result from the climate transition. Corey is
+    investigating how rising atmospheric carbon dioxide may change how crops and natural vegetation
+    interact with climate extremes. His research integrates diverse observational data with biophysical
+    and statistical models. Corey is also an enthusiastic environmental and climate educator.
