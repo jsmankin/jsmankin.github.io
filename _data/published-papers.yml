@@ -3,13 +3,24 @@
   year: in press
   journal: Nature
   journalLink: 'https://www.nature.com/'
-  DOI: 
-  link:
+  DOI: 's41586-026-10487-7'
+  link: 'https://www.nature.com/articles/s41586-026-10487-7'
   code: 'https://github.com/clesk/consolidation-TWS'
-  press: 
+  press: 'Lesk_TWS_press'
   email: Request Lesk-Mankin P-TWS
-  altmetric: 
+  altmetric: 'https://doi.org/10.1038/s41586-026-10487-7'
 
+- authors: Bagwell, T. (G), S. Dee ,  X. Luo, A. Stravato, D. Saikumar, F. Viens, B. Lee, D. O'Brien, <strong>J. S. Mankin</strong>,
+  title: Global and regional climate modes modulate armed conflict risk,
+  year: in press
+  journal: Proceedings of the National Academy of Sciences
+  journalLink: 'https://www.pnas.org/'
+  DOI: '10.1073/pnas.2532935123'
+  link: 'https://www.pnas.org/doi/10.1073/pnas.2532935123'
+  code: 'https://zenodo.org/records/19103910s'
+  press: 'Bagwell_conflict_press'
+  email: Request Bagwell ENSO-IOD
+  altmetric: 'https://doi.org/10.1073/pnas.2532935123'
 
 - authors: Pollack, A., J. Campbell, C. Madison, C. Cooper, M. Coronese, J. Doss-Gollin, P. Hedge, C. Helgeson, <u>C. Lesk (P)</u>, <strong>J. S. Mankin</strong>, E. Mayfield, R. Nicholas, S. Roth, V. Srikrishnan, N. Tuana, K. Keller 
   title: Unlocking the benefits of transparent and reusable science for climate-risk management
@@ -22,7 +33,6 @@
   email: Request Pollack Perspective
   code: 'https://zenodo.org/records/10291042'
   altmetric: "https://doi.org/10.1073/pnas.2422157123"
-
 
 - authors: <strong>	&diams; </strong><u>Gottlieb, A. (G)</u> & <strong> J. S. Mankin</strong>
   title: Subseasonal temperature variability drives nonlinear snow loss with warming
